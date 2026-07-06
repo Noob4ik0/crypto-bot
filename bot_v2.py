@@ -29,6 +29,7 @@ log = logging.getLogger(__name__)
 
 # ── Settings ──────────────────────────────────────────────────────────────────
 MAX_POSTS_PER_CYCLE = 1        # максимум 1 пост за цикл
+MAX_AI_CHECKS       = 5        # максимум статей на AI-проверку за цикл
 MONITOR_MIN         = 30       # проверка раз в 30 минут
 MIN_IMPORTANCE      = 7        # минимальная оценка важности (1-10) для публикации
 SEEN_TTL_DAYS       = 7        # хранить хеши 7 дней
@@ -288,14 +289,19 @@ def monitor_cycle():
     log.info(f"Total: {len(news)} | Relevant & new: {len(candidates)}")
 
     posted = 0
+    ai_checked = 0
     for item in candidates:
         if posted >= MAX_POSTS_PER_CYCLE:
+            break
+        if ai_checked >= MAX_AI_CHECKS:
+            log.info(f"[AI limit] проверено {ai_checked} статей за цикл, остальные отложены")
             break
 
         title = item["title"]
 
         # AI-оценка важности
         score = score_importance(title)
+        ai_checked += 1
         if score < MIN_IMPORTANCE:
             log.info(f"[SKIP score={score}<{MIN_IMPORTANCE}] {title[:80]}")
             seen[md5(title)] = datetime.now().isoformat()
