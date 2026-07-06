@@ -30,7 +30,7 @@ log = logging.getLogger(__name__)
 # ── Settings ──────────────────────────────────────────────────────────────────
 MAX_POSTS_PER_CYCLE = 1        # максимум 1 пост за цикл
 MONITOR_MIN         = 30       # проверка раз в 30 минут
-MIN_IMPORTANCE      = 8        # минимальная оценка важности (1-10) для публикации
+MIN_IMPORTANCE      = 7        # минимальная оценка важности (1-10) для публикации
 SEEN_TTL_DAYS       = 7        # хранить хеши 7 дней
 MIN_HOURS_BETWEEN   = 2        # минимум 2 часа между постами
 
@@ -67,6 +67,9 @@ RSS_FEEDS = {
     "CoinTelegraph": "https://cointelegraph.com/rss",
     "Decrypt":       "https://decrypt.co/feed",
     "TheBlock":      "https://www.theblockcrypto.com/rss.xml",
+    "Blockworks":    "https://blockworks.co/feed",
+    "Messari":       "https://messari.io/rss/news.xml",
+    "DLNews":        "https://www.dlnews.com/arc/outboundfeeds/rss/",
 }
 
 # ── OpenRouter (AI) ───────────────────────────────────────────────────────────
@@ -196,12 +199,48 @@ def fetch_rss() -> list:
     return items
 
 
+# ── Hashtags ──────────────────────────────────────────────────────────────────
+_HASHTAG_MAP = [
+    ({"bitcoin", "btc"},                          "#Bitcoin"),
+    ({"ethereum", "eth"},                         "#Ethereum"),
+    ({"solana", "sol"},                           "#Solana"),
+    ({"binance", "bnb"},                          "#BNB"),
+    ({"ripple", "xrp"},                           "#XRP"),
+    ({"dogecoin", "doge"},                        "#Dogecoin"),
+    ({"avalanche", "avax"},                       "#Avalanche"),
+    ({"polkadot", "dot"},                         "#Polkadot"),
+    ({"polygon", "matic"},                        "#Polygon"),
+    ({"defi", "decentralized finance"},           "#DeFi"),
+    ({"nft"},                                     "#NFT"),
+    ({"etf", "blackrock", "fidelity"},            "#ETF"),
+    ({"hack", "exploit", "hacked", "stolen"},     "#CryptoSecurity"),
+    ({"regulation", "sec", "cftc", "ban", "mica"}, "#CryptoRegulation"),
+    ({"airdrop", "retroactive drop"},             "#Airdrop"),
+    ({"layer2", "layer 2", "rollup", "l2"},       "#Layer2"),
+    ({"halving"},                                  "#Halving"),
+]
+
+def get_hashtags(title: str) -> str:
+    low = title.lower()
+    tags = []
+    for keywords, tag in _HASHTAG_MAP:
+        if any(kw in low for kw in keywords):
+            tags.append(tag)
+        if len(tags) >= 3:
+            break
+    tags.append("#crypto")
+    return " ".join(dict.fromkeys(tags))  # dedupe, keep order
+
+
 # ── Post formatting ───────────────────────────────────────────────────────────
 def format_cast(title: str, url: str) -> str:
-    base = f"{title}\n\n{url}"
+    tags = get_hashtags(title)
+    base = f"{title}\n\n{url}\n\n{tags}"
     if len(base) <= 320:
         return base
-    return title[:290] + "…\n\n" + url
+    # truncate title if needed
+    overhead = len(url) + len(tags) + 6
+    return title[:320 - overhead] + "…\n\n" + url + "\n\n" + tags
 
 
 # ── Farcaster (Neynar) ────────────────────────────────────────────────────────
