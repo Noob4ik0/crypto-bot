@@ -13,15 +13,15 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 ## 📊 Activity (last 7 days)
 
-**Posts published: 1**
+**Posts published: 3**
 
 | Date | Headline |
 |------|----------|
-| 2026-07-06 | Live markets: Bitcoin recoups early losses, rising back above $63,000… |
-| 2026-07-06 | Live markets: Bitcoin recoups early decline, rising back above $63,000… |
 | 2026-07-06 | Strategy selling hundreds of millions worth of bitcoin raises question about its… |
 | 2026-07-06 | UN agency moves Stellar blockchain payment initiative beyond pilot stage… |
 | 2026-07-06 | Thousands of crypto wallets at risk from ‘Ill Bloom’ vulnerability: Coinspect… |
+| 2026-07-07 | Ripple secures full MiCA license for crypto services across Europe… |
+| 2026-07-07 | Crypto companies raised $600m in April despite despite market downturn, VCs say… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-07-06 21:36 UTC*
+*README auto-updated: 2026-07-07 13:00 UTC*
