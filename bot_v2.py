@@ -76,9 +76,10 @@ RSS_FEEDS = {
 # ── OpenRouter (AI) ───────────────────────────────────────────────────────────
 OR_KEY    = os.getenv("OPENROUTER_API_KEY")
 OR_MODELS = [
+    "tencent/hy3:free",
+    "nvidia/nemotron-3-nano-30b-a3b:free",
     "google/gemma-4-26b-a4b-it:free",
     "google/gemma-4-31b-it:free",
-    "nvidia/nemotron-3-super-120b-a12b:free",
 ]
 
 
@@ -106,20 +107,28 @@ Reply with ONLY a single integer (1-10), nothing else."""
             r = requests.post(
                 "https://openrouter.ai/api/v1/chat/completions",
                 headers={"Authorization": f"Bearer {OR_KEY}", "Content-Type": "application/json"},
-                json={"model": model, "messages": [{"role": "user", "content": prompt}], "max_tokens": 5},
-                timeout=20,
+                json={"model": model, "messages": [{"role": "user", "content": prompt}], "max_tokens": 200},
+                timeout=25,
             )
+            if r.status_code == 429:
+                log.warning(f"[AI:{model}] rate limited, trying next")
+                time.sleep(3)
+                continue
             r.raise_for_status()
             data = r.json()
             if "choices" not in data or not data["choices"]:
                 log.warning(f"[AI:{model}] empty response")
                 continue
-            text = data["choices"][0]["message"]["content"].strip()
-            match = re.search(r'\d+', text)
-            if not match:
-                log.warning(f"[AI:{model}] no score in: {text[:30]}")
+            msg = data["choices"][0]["message"]
+            # reasoning models put answer in content or reasoning field
+            text = (msg.get("content") or msg.get("reasoning") or "").strip()
+            # extract last number in text (after reasoning chain)
+            matches = re.findall(r'\b(10|[1-9])\b', text)
+            if not matches:
+                log.warning(f"[AI:{model}] no score in: {text[:50]}")
+                time.sleep(2)
                 continue
-            score = max(1, min(10, int(match.group())))
+            score = max(1, min(10, int(matches[-1])))
             log.info(f"[AI:{model.split('/')[-1]}] score={score} | {title[:70]}")
             return score
         except requests.exceptions.Timeout:
@@ -127,6 +136,7 @@ Reply with ONLY a single integer (1-10), nothing else."""
             continue
         except Exception as e:
             log.warning(f"[AI:{model}] error: {e}")
+            time.sleep(2)
             continue
 
     log.warning("[AI] all models failed — skipping")
