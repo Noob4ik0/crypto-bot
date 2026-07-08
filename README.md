@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-07-07 13:00 UTC*
+*README auto-updated: 2026-07-08 13:00 UTC*
