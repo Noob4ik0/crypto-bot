@@ -13,15 +13,15 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 ## 📊 Activity (last 7 days)
 
-**Posts published: 5**
+**Posts published: 14**
 
 | Date | Headline |
 |------|----------|
-| 2026-07-06 | Thousands of crypto wallets at risk from ‘Ill Bloom’ vulnerability: Coinspect… |
-| 2026-07-07 | Ripple secures full MiCA license for crypto services across Europe… |
-| 2026-07-07 | Crypto companies raised $600m in April despite despite market downturn, VCs say… |
-| 2026-07-09 | AI boom fuels inflation fears, complicating Fed’s next rate move… |
-| 2026-07-09 | SWIFT launches blockchain ledger with 17-bank tokenized deposit pilot… |
+| 2026-07-10 | New Hampshire snuffs out trailblazing state-government bitcoin bond effort… |
+| 2026-07-10 | Grayscale's CFO exits after 7 years with crypto asset manager… |
+| 2026-07-10 | Anthropic AI Oversight Board Adds Ben Bernanke, Who Oversaw 2008 Financial Crisi… |
+| 2026-07-10 | Bitcoin gets a green light from a reliable momentum gauge. Here are key levels t… |
+| 2026-07-10 | Labour MPs Push to Make UK Crypto Donation Ban Permanent… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-07-09 13:00 UTC*
+*README auto-updated: 2026-07-10 13:00 UTC*
