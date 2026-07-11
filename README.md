@@ -13,15 +13,15 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 ## 📊 Activity (last 7 days)
 
-**Posts published: 14**
+**Posts published: 16**
 
 | Date | Headline |
 |------|----------|
-| 2026-07-10 | New Hampshire snuffs out trailblazing state-government bitcoin bond effort… |
-| 2026-07-10 | Grayscale's CFO exits after 7 years with crypto asset manager… |
 | 2026-07-10 | Anthropic AI Oversight Board Adds Ben Bernanke, Who Oversaw 2008 Financial Crisi… |
 | 2026-07-10 | Bitcoin gets a green light from a reliable momentum gauge. Here are key levels t… |
 | 2026-07-10 | Labour MPs Push to Make UK Crypto Donation Ban Permanent… |
+| 2026-07-10 | Circle soars after securing U.S. trust bank approval in crypto expansion… |
+| 2026-07-10 | Circle Stock Jumps as Stablecoin Issuer Wins Final Federal Banking Charter Appro… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-07-10 13:00 UTC*
+*README auto-updated: 2026-07-11 13:00 UTC*
