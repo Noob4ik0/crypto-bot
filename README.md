@@ -13,15 +13,15 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 ## 📊 Activity (last 7 days)
 
-**Posts published: 21**
+**Posts published: 22**
 
 | Date | Headline |
 |------|----------|
-| 2026-07-11 | Bonzo Lend loses $9M in oracle exploit on Hedera… |
-| 2026-07-11 | Nano Banana 2 Lite vs. Nano Banana 2: When to Save Your Money and When to Upgrad… |
 | 2026-07-11 | Crypto IPO market stalls as capital rotates to AI and macro uncertainty weighs… |
 | 2026-07-11 | Lending protocol Bonzo loses 77% of value locked as $9 million oracle exploit ra… |
 | 2026-07-12 | Bitcoin’s BIP 110 fork deadline nears with miner support at zero… |
+| 2026-07-13 | Robinhood L2 sparks ETH optimism, Saylor 'muddies waters.' Hodler's Digest, July… |
+| 2026-07-13 | Bitcoin ETFs draw $197M, snap 8-week outflow streak… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-07-12 13:00 UTC*
+*README auto-updated: 2026-07-13 13:00 UTC*
