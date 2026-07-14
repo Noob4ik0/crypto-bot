@@ -13,15 +13,15 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 ## 📊 Activity (last 7 days)
 
-**Posts published: 22**
+**Posts published: 29**
 
 | Date | Headline |
 |------|----------|
-| 2026-07-11 | Crypto IPO market stalls as capital rotates to AI and macro uncertainty weighs… |
-| 2026-07-11 | Lending protocol Bonzo loses 77% of value locked as $9 million oracle exploit ra… |
-| 2026-07-12 | Bitcoin’s BIP 110 fork deadline nears with miner support at zero… |
-| 2026-07-13 | Robinhood L2 sparks ETH optimism, Saylor 'muddies waters.' Hodler's Digest, July… |
-| 2026-07-13 | Bitcoin ETFs draw $197M, snap 8-week outflow streak… |
+| 2026-07-14 | Morning Minute: BTC and ETH ETFs Flip Green After Lengthy Outflow Stretch… |
+| 2026-07-14 | DePIN and crypto gaming led a surprising end-of-year rebound… |
+| 2026-07-14 | Bitcoin slips as traders lift July Fed rate hike bets ahead of Inflation report… |
+| 2026-07-14 | Bitcoin threatens $62K in risk-asset rout as President Trump says US will 'run' … |
+| 2026-07-14 | US spot Bitcoin ETFs post $425M outflow after brief rebound… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-07-13 13:00 UTC*
+*README auto-updated: 2026-07-14 13:00 UTC*
