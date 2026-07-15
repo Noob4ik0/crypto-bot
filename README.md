@@ -13,15 +13,15 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 ## 📊 Activity (last 7 days)
 
-**Posts published: 29**
+**Posts published: 37**
 
 | Date | Headline |
 |------|----------|
-| 2026-07-14 | Morning Minute: BTC and ETH ETFs Flip Green After Lengthy Outflow Stretch… |
-| 2026-07-14 | DePIN and crypto gaming led a surprising end-of-year rebound… |
-| 2026-07-14 | Bitcoin slips as traders lift July Fed rate hike bets ahead of Inflation report… |
-| 2026-07-14 | Bitcoin threatens $62K in risk-asset rout as President Trump says US will 'run' … |
-| 2026-07-14 | US spot Bitcoin ETFs post $425M outflow after brief rebound… |
+| 2026-07-15 | U.S. CFTC moves to stop Kalshi from canceling trades as ordered by Michigan cour… |
+| 2026-07-15 | Ethereum devs huddled in the Arctic Circle to fix the network. Here’s what to kn… |
+| 2026-07-15 | Crypto companies raised $600m in April despite despite market downturn, VCs say… |
+| 2026-07-15 | Kalshi says CFTC, Michigan orders leave it in ‘impossible position’… |
+| 2026-07-15 | Live markets: Bitcoin, ether ETFs draw inflows as majors rise as much as 5%… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-07-14 13:00 UTC*
+*README auto-updated: 2026-07-15 13:00 UTC*
