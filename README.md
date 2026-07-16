@@ -13,15 +13,15 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 ## 📊 Activity (last 7 days)
 
-**Posts published: 37**
+**Posts published: 40**
 
 | Date | Headline |
 |------|----------|
-| 2026-07-15 | U.S. CFTC moves to stop Kalshi from canceling trades as ordered by Michigan cour… |
-| 2026-07-15 | Ethereum devs huddled in the Arctic Circle to fix the network. Here’s what to kn… |
-| 2026-07-15 | Crypto companies raised $600m in April despite despite market downturn, VCs say… |
-| 2026-07-15 | Kalshi says CFTC, Michigan orders leave it in ‘impossible position’… |
-| 2026-07-15 | Live markets: Bitcoin, ether ETFs draw inflows as majors rise as much as 5%… |
+| 2026-07-16 | President Trump expected to meet with senators to work on ethics concerns in cry… |
+| 2026-07-16 | Revolut receives in-principle approval from UAE authorities for crypto services… |
+| 2026-07-16 | US Senator blasts AG pick for ‘dismantling’ crypto unit, Trump’s CZ pardon… |
+| 2026-07-16 | A bitcoin wallet dormant since the 2017 peak just moved $383 million… |
+| 2026-07-16 | Ether outruns bitcoin as ETF money returns, almost all of from BlackRock's fund… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-07-15 13:00 UTC*
+*README auto-updated: 2026-07-16 13:00 UTC*
