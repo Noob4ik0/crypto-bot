@@ -13,15 +13,15 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 ## 📊 Activity (last 7 days)
 
-**Posts published: 40**
+**Posts published: 43**
 
 | Date | Headline |
 |------|----------|
-| 2026-07-16 | President Trump expected to meet with senators to work on ethics concerns in cry… |
-| 2026-07-16 | Revolut receives in-principle approval from UAE authorities for crypto services… |
-| 2026-07-16 | US Senator blasts AG pick for ‘dismantling’ crypto unit, Trump’s CZ pardon… |
-| 2026-07-16 | A bitcoin wallet dormant since the 2017 peak just moved $383 million… |
-| 2026-07-16 | Ether outruns bitcoin as ETF money returns, almost all of from BlackRock's fund… |
+| 2026-07-17 | Crypto brokerage firm Alpaca raises $135 million for tokenized stock infrastruct… |
+| 2026-07-17 | Citadel Securities invests $400M in Crypto.com at $20B valuation… |
+| 2026-07-17 | Crypto exchange Bybit launches in Indonesia after NOBI acquisition… |
+| 2026-07-17 | Polygon CEO announces job cuts amid Coinme acquisition… |
+| 2026-07-17 | US indicts crypto investor over alleged $20M fraud scheme… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-07-16 13:00 UTC*
+*README auto-updated: 2026-07-17 13:00 UTC*
