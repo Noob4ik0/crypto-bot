@@ -13,15 +13,15 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 ## 📊 Activity (last 7 days)
 
-**Posts published: 43**
+**Posts published: 47**
 
 | Date | Headline |
 |------|----------|
-| 2026-07-17 | Crypto brokerage firm Alpaca raises $135 million for tokenized stock infrastruct… |
-| 2026-07-17 | Citadel Securities invests $400M in Crypto.com at $20B valuation… |
-| 2026-07-17 | Crypto exchange Bybit launches in Indonesia after NOBI acquisition… |
-| 2026-07-17 | Polygon CEO announces job cuts amid Coinme acquisition… |
-| 2026-07-17 | US indicts crypto investor over alleged $20M fraud scheme… |
+| 2026-07-17 | UK sentences 2 hackers tied to $115M crypto ransom scheme… |
+| 2026-07-18 | Three Men Jailed for Posing as Police in $5.3M UK Crypto Fraud… |
+| 2026-07-18 | Crypto.com Hits $20B Valuation After $400M Citadel Securities Investment… |
+| 2026-07-18 | Morgan Stanley Launches Bitcoin, Ethereum, and Solana Trading on E*Trade… |
+| 2026-07-18 | Crypto industry reels as April sees highest number of hacks ever… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-07-17 13:00 UTC*
+*README auto-updated: 2026-07-18 13:00 UTC*
