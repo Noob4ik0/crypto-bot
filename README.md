@@ -13,15 +13,15 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 ## 📊 Activity (last 7 days)
 
-**Posts published: 47**
+**Posts published: 48**
 
 | Date | Headline |
 |------|----------|
-| 2026-07-17 | UK sentences 2 hackers tied to $115M crypto ransom scheme… |
-| 2026-07-18 | Three Men Jailed for Posing as Police in $5.3M UK Crypto Fraud… |
 | 2026-07-18 | Crypto.com Hits $20B Valuation After $400M Citadel Securities Investment… |
 | 2026-07-18 | Morgan Stanley Launches Bitcoin, Ethereum, and Solana Trading on E*Trade… |
 | 2026-07-18 | Crypto industry reels as April sees highest number of hacks ever… |
+| 2026-07-18 | Kaspersky identifies malware framework targeting crypto investors… |
+| 2026-07-18 | Massive bitcoin call spreads target $72,000 by month end, right when the Fed mee… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-07-18 13:00 UTC*
+*README auto-updated: 2026-07-19 13:00 UTC*
