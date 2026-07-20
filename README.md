@@ -13,15 +13,15 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 ## 📊 Activity (last 7 days)
 
-**Posts published: 48**
+**Posts published: 45**
 
 | Date | Headline |
 |------|----------|
-| 2026-07-18 | Crypto.com Hits $20B Valuation After $400M Citadel Securities Investment… |
-| 2026-07-18 | Morgan Stanley Launches Bitcoin, Ethereum, and Solana Trading on E*Trade… |
-| 2026-07-18 | Crypto industry reels as April sees highest number of hacks ever… |
 | 2026-07-18 | Kaspersky identifies malware framework targeting crypto investors… |
 | 2026-07-18 | Massive bitcoin call spreads target $72,000 by month end, right when the Fed mee… |
+| 2026-07-20 | South Korea probed 40 cases of crypto manipulation over 2 years… |
+| 2026-07-20 | Allbridge pauses cross-chain bridge after $1.65M exploit… |
+| 2026-07-20 | U.S. regulatory developments and earnings, ECB rate decision: Crypto Week Ahead… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-07-19 13:00 UTC*
+*README auto-updated: 2026-07-20 13:00 UTC*
