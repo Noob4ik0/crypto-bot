@@ -17,11 +17,11 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 | Date | Headline |
 |------|----------|
-| 2026-07-20 | Nigerian president signs order on approach to crypto regulation, taxes… |
-| 2026-07-21 | Russia's First Comprehensive Crypto Law Is Two Votes Away From Passing… |
-| 2026-07-21 | Cardano Triggers Hard Fork With First Community-Voted Upgrade… |
-| 2026-07-21 | Grayscale files S-1 for first US Worldcoin ETF… |
-| 2026-07-21 | UK Lawmakers Launch Inquiry Into Crypto Banking Access… |
+| 2026-07-22 | Crypto lobby group TDC sues Illinois to block digital asset tax… |
+| 2026-07-22 | Crypto lobby group Digital Chamber sues Illinois to block digital asset tax… |
+| 2026-07-22 | Pavel Durov says Telegram to roll out native Gram crypto wallet… |
+| 2026-07-22 | CoinShares debuts Bitcoin mining ETF in Europe entrance… |
+| 2026-07-22 | Bitcoin ETFs extend inflow streak to 6 days with $203M added… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-07-21 13:00 UTC*
+*README auto-updated: 2026-07-22 13:00 UTC*
