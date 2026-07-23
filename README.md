@@ -13,15 +13,15 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 ## 📊 Activity (last 7 days)
 
-**Posts published: 45**
+**Posts published: 44**
 
 | Date | Headline |
 |------|----------|
-| 2026-07-22 | Crypto lobby group TDC sues Illinois to block digital asset tax… |
-| 2026-07-22 | Crypto lobby group Digital Chamber sues Illinois to block digital asset tax… |
-| 2026-07-22 | Pavel Durov says Telegram to roll out native Gram crypto wallet… |
-| 2026-07-22 | CoinShares debuts Bitcoin mining ETF in Europe entrance… |
-| 2026-07-22 | Bitcoin ETFs extend inflow streak to 6 days with $203M added… |
+| 2026-07-23 | Zilliqa Ledger app vulnerability lets attackers recover signer’s private keys… |
+| 2026-07-23 | Hugging Face CEO Thanks Chinese AI for Saving the Day After OpenAI Hack… |
+| 2026-07-23 | AFX protocol reportedly loses $24M in bridge exploit… |
+| 2026-07-23 | Hackers steal $31.6M in 2 crypto bridge attacks within 7 hours… |
+| 2026-07-23 | Bitcoin, Ethereum-linked protocols lose $35 million in multiple attacks hours ap… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-07-22 13:00 UTC*
+*README auto-updated: 2026-07-23 13:00 UTC*
