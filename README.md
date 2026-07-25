@@ -13,15 +13,15 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 ## 📊 Activity (last 7 days)
 
-**Posts published: 45**
+**Posts published: 48**
 
 | Date | Headline |
 |------|----------|
-| 2026-07-24 | Nasdaq-Listed Zhibao Wants a Bitcoin Treasury, Plans to Sell $220M in Stock for … |
-| 2026-07-24 | BlackRock, Coinbase and Strategy Pledge $15M to Quantum-Proof Bitcoin… |
-| 2026-07-24 | BitMEX hit with 623 BTC lawsuit on day it announces shutdown… |
-| 2026-07-24 | Crypto 'Wrench Attacks' Cost Victims $124M in Six Months, Up 12x: CertiK… |
-| 2026-07-24 | BitMEX faces proposed class-action suit for theft, insider trading as crypto exc… |
+| 2026-07-25 | Poolin was bitcoin's biggest mining pool and now it's filing for bankruptcy… |
+| 2026-07-25 | Bitcoin treasury companies sell up, repay debt, pivot to AI as share prices coll… |
+| 2026-07-25 | World Foundation raises $52.5M in Pantera-led funding to expand World ID infrast… |
+| 2026-07-25 | Bitcoin falls under $64K as surging US bond yields boost Fed rate-hike odds… |
+| 2026-07-25 | Ethereum ETFs close week in red, end 5-day inflow streak… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-07-24 13:00 UTC*
+*README auto-updated: 2026-07-25 13:00 UTC*
