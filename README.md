@@ -13,15 +13,15 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 ## 📊 Activity (last 7 days)
 
-**Posts published: 48**
+**Posts published: 58**
 
 | Date | Headline |
 |------|----------|
-| 2026-07-25 | Poolin was bitcoin's biggest mining pool and now it's filing for bankruptcy… |
-| 2026-07-25 | Bitcoin treasury companies sell up, repay debt, pivot to AI as share prices coll… |
-| 2026-07-25 | World Foundation raises $52.5M in Pantera-led funding to expand World ID infrast… |
-| 2026-07-25 | Bitcoin falls under $64K as surging US bond yields boost Fed rate-hike odds… |
-| 2026-07-25 | Ethereum ETFs close week in red, end 5-day inflow streak… |
+| 2026-07-26 | World Foundation Raises $52.5M to Scale Sam Altman’s ‘Proof of Human’ ID… |
+| 2026-07-26 | Drift to issue ‘recovery tokens’ in wake of $295m hack… |
+| 2026-07-26 | Strategy shares soar 50% in a month as Bitcoin tops $80,000 ahead of Q1 earnings… |
+| 2026-07-26 | Crypto exchange BitMart to shut down after nine years, BMX token crashes 58%… |
+| 2026-07-26 | Bitcoin tops $80,000 price as Clarity Act nears Senate floor with new Fed chair … |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-07-25 13:00 UTC*
+*README auto-updated: 2026-07-26 13:00 UTC*
