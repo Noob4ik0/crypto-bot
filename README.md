@@ -13,15 +13,15 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 ## 📊 Activity (last 7 days)
 
-**Posts published: 58**
+**Posts published: 55**
 
 | Date | Headline |
 |------|----------|
-| 2026-07-26 | World Foundation Raises $52.5M to Scale Sam Altman’s ‘Proof of Human’ ID… |
-| 2026-07-26 | Drift to issue ‘recovery tokens’ in wake of $295m hack… |
-| 2026-07-26 | Strategy shares soar 50% in a month as Bitcoin tops $80,000 ahead of Q1 earnings… |
-| 2026-07-26 | Crypto exchange BitMart to shut down after nine years, BMX token crashes 58%… |
 | 2026-07-26 | Bitcoin tops $80,000 price as Clarity Act nears Senate floor with new Fed chair … |
+| 2026-07-26 | Crypto industry reels as April sees highest number of hacks ever… |
+| 2026-07-26 | Russia’s Sberbank to launch crypto trading infrastructure this year… |
+| 2026-07-27 | Triple-A confirms treasury-wallet breach after losses reach $11.8M… |
+| 2026-07-27 | Cloud data firm Storj files for Chapter 11, extending a week of crypto failures.… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-07-26 13:00 UTC*
+*README auto-updated: 2026-07-27 13:00 UTC*
