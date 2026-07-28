@@ -13,15 +13,15 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 ## 📊 Activity (last 7 days)
 
-**Posts published: 55**
+**Posts published: 56**
 
 | Date | Headline |
 |------|----------|
-| 2026-07-26 | Bitcoin tops $80,000 price as Clarity Act nears Senate floor with new Fed chair … |
-| 2026-07-26 | Crypto industry reels as April sees highest number of hacks ever… |
-| 2026-07-26 | Russia’s Sberbank to launch crypto trading infrastructure this year… |
-| 2026-07-27 | Triple-A confirms treasury-wallet breach after losses reach $11.8M… |
-| 2026-07-27 | Cloud data firm Storj files for Chapter 11, extending a week of crypto failures.… |
+| 2026-07-28 | Crypto’s favorite $90 trillion trading product is coming to Wall Street, but big… |
+| 2026-07-28 | Hong Kong crypto giant HashKey merges regional exchange into one… |
+| 2026-07-28 | Prediction Market Traders Brace for Surprise Fed Rate Hike… |
+| 2026-07-28 | Fanatics Buys CFTC-Registered Exchange in Prediction Markets Land Grab… |
+| 2026-07-28 | Inside the CME and CFTC’s battle over onchain perpetual futures… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-07-27 13:00 UTC*
+*README auto-updated: 2026-07-28 13:00 UTC*
