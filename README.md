@@ -13,15 +13,15 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 ## 📊 Activity (last 7 days)
 
-**Posts published: 56**
+**Posts published: 57**
 
 | Date | Headline |
 |------|----------|
-| 2026-07-28 | Crypto’s favorite $90 trillion trading product is coming to Wall Street, but big… |
-| 2026-07-28 | Hong Kong crypto giant HashKey merges regional exchange into one… |
-| 2026-07-28 | Prediction Market Traders Brace for Surprise Fed Rate Hike… |
-| 2026-07-28 | Fanatics Buys CFTC-Registered Exchange in Prediction Markets Land Grab… |
-| 2026-07-28 | Inside the CME and CFTC’s battle over onchain perpetual futures… |
+| 2026-07-29 | Morgan Stanley debuts ether, solana exchange-traded products after bitcoin fund … |
+| 2026-07-29 | Morgan Stanley expands crypto lineup with Ether, Solana ETPs… |
+| 2026-07-29 | Claude Mythos Cracked Post-Quantum Cryptography That Humans Spent Years Failing … |
+| 2026-07-29 | Live updates: Bitcoin clears $64,000 in Asia hours ahead of Fed decision… |
+| 2026-07-29 | Company behind AI trade that caused $60 million crypto liquidations to cover all… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-07-28 13:00 UTC*
+*README auto-updated: 2026-07-29 13:00 UTC*
