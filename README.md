@@ -17,11 +17,11 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 | Date | Headline |
 |------|----------|
-| 2026-07-29 | Morgan Stanley debuts ether, solana exchange-traded products after bitcoin fund … |
-| 2026-07-29 | Morgan Stanley expands crypto lineup with Ether, Solana ETPs… |
-| 2026-07-29 | Claude Mythos Cracked Post-Quantum Cryptography That Humans Spent Years Failing … |
-| 2026-07-29 | Live updates: Bitcoin clears $64,000 in Asia hours ahead of Fed decision… |
-| 2026-07-29 | Company behind AI trade that caused $60 million crypto liquidations to cover all… |
+| 2026-07-30 | Fed holds rates steady, extending pause as markets await Kevin Warsh's policy ro… |
+| 2026-07-30 | Binance.US to attempt prediction markets entry as CFTC-licensed entity, says CEO… |
+| 2026-07-30 | Japanese game developer launches Bitcoin, altcoin fund with SBI… |
+| 2026-07-30 | Ethereum Price Stalls as Fed Rate Decision Looms… |
+| 2026-07-30 | Bitcoin ETF inflows return as Ether funds slip into outflows… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-07-29 13:00 UTC*
+*README auto-updated: 2026-07-30 13:00 UTC*
