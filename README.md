@@ -13,15 +13,15 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 ## 📊 Activity (last 7 days)
 
-**Posts published: 57**
+**Posts published: 56**
 
 | Date | Headline |
 |------|----------|
-| 2026-07-30 | Fed holds rates steady, extending pause as markets await Kevin Warsh's policy ro… |
-| 2026-07-30 | Binance.US to attempt prediction markets entry as CFTC-licensed entity, says CEO… |
-| 2026-07-30 | Japanese game developer launches Bitcoin, altcoin fund with SBI… |
-| 2026-07-30 | Ethereum Price Stalls as Fed Rate Decision Looms… |
-| 2026-07-30 | Bitcoin ETF inflows return as Ether funds slip into outflows… |
+| 2026-07-31 | Strategy books $8.2 billion Q2 loss on bitcoin price decline… |
+| 2026-07-31 | Strategy posts $8.2B Q2 loss as Bitcoin slump drives unrealized losses… |
+| 2026-07-31 | Coinbase Q2 profit misses estimates despite record crypto market share… |
+| 2026-07-31 | Major bitcoin wallet flaw drains 594 BTC in 25-minute sweep… |
+| 2026-07-31 | Bitcoin ETFs post $233M inflows, pushing week back into the green… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-07-30 13:00 UTC*
+*README auto-updated: 2026-07-31 13:00 UTC*
