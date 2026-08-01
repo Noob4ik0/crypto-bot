@@ -17,11 +17,11 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 | Date | Headline |
 |------|----------|
-| 2026-07-31 | Strategy books $8.2 billion Q2 loss on bitcoin price decline… |
-| 2026-07-31 | Strategy posts $8.2B Q2 loss as Bitcoin slump drives unrealized losses… |
-| 2026-07-31 | Coinbase Q2 profit misses estimates despite record crypto market share… |
-| 2026-07-31 | Major bitcoin wallet flaw drains 594 BTC in 25-minute sweep… |
-| 2026-07-31 | Bitcoin ETFs post $233M inflows, pushing week back into the green… |
+| 2026-08-01 | US Treasury yields rise as TIPS challenge the inflation narrative… |
+| 2026-08-01 | US Treasury Sanctions Iranian Firms Taking Bitcoin for Hormuz Passage… |
+| 2026-08-01 | Crypto Kiosk Scams Cost Texans $57M as Lawmakers Weigh a Ban… |
+| 2026-08-01 | How bitcoin cold wallets lost $70 million in an attack that never touched the de… |
+| 2026-08-01 | Coldcard Bitcoin loss estimate rises to $70M after Galaxy analysis… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-07-31 13:00 UTC*
+*README auto-updated: 2026-08-01 13:00 UTC*
