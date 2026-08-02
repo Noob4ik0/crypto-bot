@@ -13,15 +13,15 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 ## 📊 Activity (last 7 days)
 
-**Posts published: 56**
+**Posts published: 57**
 
 | Date | Headline |
 |------|----------|
-| 2026-08-01 | US Treasury yields rise as TIPS challenge the inflation narrative… |
-| 2026-08-01 | US Treasury Sanctions Iranian Firms Taking Bitcoin for Hormuz Passage… |
-| 2026-08-01 | Crypto Kiosk Scams Cost Texans $57M as Lawmakers Weigh a Ban… |
-| 2026-08-01 | How bitcoin cold wallets lost $70 million in an attack that never touched the de… |
-| 2026-08-01 | Coldcard Bitcoin loss estimate rises to $70M after Galaxy analysis… |
+| 2026-08-01 | Minnesota crypto ATM ban goes into effect after reported $1M losses… |
+| 2026-08-02 | Bitcoin cold-wallet attack spreads to 4,500 addresses as losses near $89 million… |
+| 2026-08-02 | Onchain, in court: What happened in crypto legal news this week… |
+| 2026-08-02 | $38M in Bitcoin Drained by Coldcard Key Flaw Its Maker Thinks AI Found… |
+| 2026-08-02 | Drift to issue ‘recovery tokens’ in wake of $295m hack… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-08-01 13:00 UTC*
+*README auto-updated: 2026-08-02 13:00 UTC*
