@@ -13,15 +13,15 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 ## 📊 Activity (last 7 days)
 
-**Posts published: 57**
+**Posts published: 60**
 
 | Date | Headline |
 |------|----------|
-| 2026-08-01 | Minnesota crypto ATM ban goes into effect after reported $1M losses… |
-| 2026-08-02 | Bitcoin cold-wallet attack spreads to 4,500 addresses as losses near $89 million… |
-| 2026-08-02 | Onchain, in court: What happened in crypto legal news this week… |
-| 2026-08-02 | $38M in Bitcoin Drained by Coldcard Key Flaw Its Maker Thinks AI Found… |
-| 2026-08-02 | Drift to issue ‘recovery tokens’ in wake of $295m hack… |
+| 2026-08-03 | Crypto industry reels as April sees highest number of hacks ever… |
+| 2026-08-03 | Suspected 4th Coldcard attack wave sweeps 389 Bitcoin: Galaxy’s Thorn… |
+| 2026-08-03 | Suspected 4th Coldcard attack wave sweeps 448 Bitcoin: Galaxy’s Thorn… |
+| 2026-08-03 | Bitcoin hits $62K while Coinbase premium hits 77-day negative streak… |
+| 2026-08-03 | Coldcard wallet losses may near $114 million as possible fourth sweep emerges… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-08-02 13:00 UTC*
+*README auto-updated: 2026-08-03 13:00 UTC*
