@@ -17,11 +17,11 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 | Date | Headline |
 |------|----------|
-| 2026-08-03 | Crypto industry reels as April sees highest number of hacks ever… |
-| 2026-08-03 | Suspected 4th Coldcard attack wave sweeps 389 Bitcoin: Galaxy’s Thorn… |
-| 2026-08-03 | Suspected 4th Coldcard attack wave sweeps 448 Bitcoin: Galaxy’s Thorn… |
-| 2026-08-03 | Bitcoin hits $62K while Coinbase premium hits 77-day negative streak… |
-| 2026-08-03 | Coldcard wallet losses may near $114 million as possible fourth sweep emerges… |
+| 2026-08-04 | Kenya moves 30 million academic credentials onto Avalanche blockchain… |
+| 2026-08-04 | BlackRock launches tokenized money market funds for stablecoin reserves… |
+| 2026-08-04 | Bitcoin nears $64,000 as traders look past the fourth Coldcard sweep… |
+| 2026-08-04 | Nigeria sets crypto tax collection rules for digital asset platforms… |
+| 2026-08-04 | BlackRock debuts tokenized access to $311 billion of money market funds in Europ… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-08-03 13:00 UTC*
+*README auto-updated: 2026-08-04 13:00 UTC*
