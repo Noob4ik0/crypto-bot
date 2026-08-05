@@ -13,15 +13,15 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 ## 📊 Activity (last 7 days)
 
-**Posts published: 60**
+**Posts published: 59**
 
 | Date | Headline |
 |------|----------|
-| 2026-08-04 | Kenya moves 30 million academic credentials onto Avalanche blockchain… |
-| 2026-08-04 | BlackRock launches tokenized money market funds for stablecoin reserves… |
-| 2026-08-04 | Bitcoin nears $64,000 as traders look past the fourth Coldcard sweep… |
-| 2026-08-04 | Nigeria sets crypto tax collection rules for digital asset platforms… |
-| 2026-08-04 | BlackRock debuts tokenized access to $311 billion of money market funds in Europ… |
+| 2026-08-05 | US yen intervention puts Bitcoin, risk assets on notice for liquidity flux… |
+| 2026-08-05 | BlackRock Tokenizes $311B of European Money Market Funds With JP Morgan's Kinexy… |
+| 2026-08-05 | Five Convicted of Imprisoning Crypto Millionaires in London 'Torture' Ordeal… |
+| 2026-08-05 | New Ethereum proposal would cut issuance to zero if staked ETH reaches $112 bill… |
+| 2026-08-05 | Boerse Stuttgart Digital, Tradias close European crypto merger… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-08-04 13:00 UTC*
+*README auto-updated: 2026-08-05 13:00 UTC*
