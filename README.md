@@ -17,11 +17,11 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 | Date | Headline |
 |------|----------|
-| 2026-08-07 | Senators Push CFTC to Ban Wildfire Bets on Prediction Markets… |
-| 2026-08-07 | Crypto Wrench Attacks on Pace for Record Year as $30M Stolen in 2026: Chainalysi… |
-| 2026-08-07 | Japan FSA asks crypto exchanges to impose withdrawal delays to fight scams… |
-| 2026-08-07 | Bitcoin whales load up on $1.2 billion in BTC as ETFs attract $750 million… |
-| 2026-08-07 | Coldcard fallout shows up onchain as 210,000 bitcoin leaves old wallets… |
+| 2026-08-08 | Treasury Sanctions Crypto Exchanges It Says Laundered Millions for Iran… |
+| 2026-08-08 | Bitcoin Payment Service BTCPay Warns Critical Flaw Is Under Active Attack… |
+| 2026-08-08 | New XRP Ledger amendments target $530 million in tokenized Wall Street assets… |
+| 2026-08-08 | Bitcoin Wallet Dormant Since 2011 Moves Millions in BTC… |
+| 2026-08-08 | U.S. Senate opens first stage of crypto Clarity Act voting to give bill a chance… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-08-07 13:00 UTC*
+*README auto-updated: 2026-08-08 13:00 UTC*
