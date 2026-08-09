@@ -13,15 +13,15 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 ## 📊 Activity (last 7 days)
 
-**Posts published: 58**
+**Posts published: 55**
 
 | Date | Headline |
 |------|----------|
-| 2026-08-08 | Treasury Sanctions Crypto Exchanges It Says Laundered Millions for Iran… |
-| 2026-08-08 | Bitcoin Payment Service BTCPay Warns Critical Flaw Is Under Active Attack… |
-| 2026-08-08 | New XRP Ledger amendments target $530 million in tokenized Wall Street assets… |
-| 2026-08-08 | Bitcoin Wallet Dormant Since 2011 Moves Millions in BTC… |
-| 2026-08-08 | U.S. Senate opens first stage of crypto Clarity Act voting to give bill a chance… |
+| 2026-08-08 | Why trillion-dollar asset manager T. Rowe Price put memecoins in its crypto ETF… |
+| 2026-08-08 | Brazil's central bank orders exchanges to delay large crypto transfers abroad… |
+| 2026-08-08 | Trillions in institutional money to flow into bitcoin, says Bitwise's Matt Houga… |
+| 2026-08-08 | US spot Bitcoin ETFs post best week since April with $1B inflows… |
+| 2026-08-09 | Brazil targets crypto fraud with up to 24-hour transfer hold… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-08-08 13:00 UTC*
+*README auto-updated: 2026-08-09 13:00 UTC*
