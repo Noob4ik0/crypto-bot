@@ -13,15 +13,15 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 ## 📊 Activity (last 7 days)
 
-**Posts published: 55**
+**Posts published: 52**
 
 | Date | Headline |
 |------|----------|
-| 2026-08-08 | Why trillion-dollar asset manager T. Rowe Price put memecoins in its crypto ETF… |
-| 2026-08-08 | Brazil's central bank orders exchanges to delay large crypto transfers abroad… |
-| 2026-08-08 | Trillions in institutional money to flow into bitcoin, says Bitwise's Matt Houga… |
-| 2026-08-08 | US spot Bitcoin ETFs post best week since April with $1B inflows… |
-| 2026-08-09 | Brazil targets crypto fraud with up to 24-hour transfer hold… |
+| 2026-08-09 | Bitcoin investors pour $853 million into spot ETFs. BlackRock’s IBIT claims the … |
+| 2026-08-09 | Bitcoin tops $80,000 price as Clarity Act nears Senate floor with new Fed chair … |
+| 2026-08-10 | Crypto companies raised $600m in April despite despite market downturn, VCs say… |
+| 2026-08-10 | Bitcoin tops $65,000 with US inflation data due this week… |
+| 2026-08-10 | Bitcoin tops $65,000 with U.S. inflation data due this week… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-08-09 13:00 UTC*
+*README auto-updated: 2026-08-10 13:00 UTC*
