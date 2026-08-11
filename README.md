@@ -17,11 +17,11 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 | Date | Headline |
 |------|----------|
-| 2026-08-09 | Bitcoin investors pour $853 million into spot ETFs. BlackRock’s IBIT claims the … |
-| 2026-08-09 | Bitcoin tops $80,000 price as Clarity Act nears Senate floor with new Fed chair … |
-| 2026-08-10 | Crypto companies raised $600m in April despite despite market downturn, VCs say… |
-| 2026-08-10 | Bitcoin tops $65,000 with US inflation data due this week… |
-| 2026-08-10 | Bitcoin tops $65,000 with U.S. inflation data due this week… |
+| 2026-08-11 | Trump Media’s bitcoin holdings shrink as crypto losses hit $361 million… |
+| 2026-08-11 | Strategy turns 1,690 BTC into $108.6M STRC buyback… |
+| 2026-08-11 | Thailand’s 0% crypto tax. Bitcoin Red Team forced to use Chinese AI: Asia Expres… |
+| 2026-08-11 | U.S. SEC sets meeting to propose Reg Crypto to support certain digital assets of… |
+| 2026-08-11 | A $2 trillion asset class is getting a new blockchain rail… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-08-10 13:00 UTC*
+*README auto-updated: 2026-08-11 13:00 UTC*
