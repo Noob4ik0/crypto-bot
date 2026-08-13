@@ -13,15 +13,15 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 ## 📊 Activity (last 7 days)
 
-**Posts published: 52**
+**Posts published: 53**
 
 | Date | Headline |
 |------|----------|
-| 2026-08-12 | SEC to address crypto regulations in absence of CLARITY passage… |
-| 2026-08-12 | SEC, CFTC sue Goliath Ventures over $400M crypto Ponzi scheme… |
-| 2026-08-12 | Ravencoin hits record low as network exploit puts transactions at risk… |
-| 2026-08-12 | XRP bridge drained for $200,000 after software mistook fake deposits for real on… |
-| 2026-08-12 | Harmony considers rollback after suspected exploit inflates ONE supply… |
+| 2026-08-13 | Hawaii crypto ATM ban to take effect on Oct. 1… |
+| 2026-08-13 | Bitcoin eyes $63K as US CPI relief sends September Fed rate pause odds to 60%… |
+| 2026-08-13 | Solana neared a freeze threshold Wednesday, Marinade Finance says. The Foundatio… |
+| 2026-08-13 | Metaplanet denies selling bitcoin worth $320 million… |
+| 2026-08-13 | Live Markets: U.S. inflation is stickier than July’s mild CPI reading suggests… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-08-12 13:00 UTC*
+*README auto-updated: 2026-08-13 13:00 UTC*
