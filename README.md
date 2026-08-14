@@ -17,11 +17,11 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 | Date | Headline |
 |------|----------|
-| 2026-08-13 | Hawaii crypto ATM ban to take effect on Oct. 1… |
-| 2026-08-13 | Bitcoin eyes $63K as US CPI relief sends September Fed rate pause odds to 60%… |
-| 2026-08-13 | Solana neared a freeze threshold Wednesday, Marinade Finance says. The Foundatio… |
-| 2026-08-13 | Metaplanet denies selling bitcoin worth $320 million… |
-| 2026-08-13 | Live Markets: U.S. inflation is stickier than July’s mild CPI reading suggests… |
+| 2026-08-14 | SEC cancels long-awaited proposal of Reg Crypto, postponing meeting without new … |
+| 2026-08-14 | Robinhood Chain nears $1B TVL as Uniswap drives liquidity: Standard Chartered… |
+| 2026-08-14 | White House Lets Private Firms Hack Cybercriminals—At Their Own Legal Risk… |
+| 2026-08-14 | Crypto Group Warns Fed Could Use Banking Access to Squeeze Digital Asset Firms… |
+| 2026-08-14 | SEC cancels key crypto regulatory meeting… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-08-13 13:00 UTC*
+*README auto-updated: 2026-08-14 13:00 UTC*
