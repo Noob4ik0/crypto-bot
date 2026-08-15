@@ -13,15 +13,15 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 ## 📊 Activity (last 7 days)
 
-**Posts published: 53**
+**Posts published: 52**
 
 | Date | Headline |
 |------|----------|
-| 2026-08-14 | SEC cancels long-awaited proposal of Reg Crypto, postponing meeting without new … |
-| 2026-08-14 | Robinhood Chain nears $1B TVL as Uniswap drives liquidity: Standard Chartered… |
-| 2026-08-14 | White House Lets Private Firms Hack Cybercriminals—At Their Own Legal Risk… |
-| 2026-08-14 | Crypto Group Warns Fed Could Use Banking Access to Squeeze Digital Asset Firms… |
-| 2026-08-14 | SEC cancels key crypto regulatory meeting… |
+| 2026-08-14 | JPMorgan boosts Bitcoin, Ether ETF positions in Q2 filing… |
+| 2026-08-15 | Trump-backed World Liberty wins conditional bank charter from federal regulator… |
+| 2026-08-15 | Coldcard Bitcoin Thefts Slow, But Losses Could Top $150 Million: Galaxy… |
+| 2026-08-15 | Israel’s Largest Bank Will Give Bitcoin Trading Another Try… |
+| 2026-08-15 | Fake LinkedIn Crypto Job Scams Have Cost $11.8M: Singapore… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-08-14 13:00 UTC*
+*README auto-updated: 2026-08-15 13:00 UTC*
