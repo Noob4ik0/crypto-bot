@@ -17,11 +17,11 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 | Date | Headline |
 |------|----------|
-| 2026-08-15 | Fake LinkedIn Crypto Job Scams Have Cost $11.8M: Singapore… |
-| 2026-08-15 | Clarity survives (barely), Strategy sells and the untold story of Mastercard's $… |
-| 2026-08-15 | Why the world’s second-largest Bitcoin mining power is shutting down rigs in its… |
-| 2026-08-15 | The $11.2 billion in 2026 funding that killed crypto’s permissionless era… |
-| 2026-08-15 | Bitcoin to $1M by 2030 is ‘mathematically impossible’ says Markus Thielen… |
+| 2026-08-16 | Strategy shares soar 50% in a month as Bitcoin tops $80,000 ahead of Q1 earnings… |
+| 2026-08-16 | Aave secures emergency hearing to void ‘catastrophic’ restraining order… |
+| 2026-08-17 | Bitcoin tops $80,000 price as Clarity Act nears Senate floor with new Fed chair … |
+| 2026-08-17 | The bitcoin futures market looks like a crowded club with a tiny exit – and it c… |
+| 2026-08-17 | September Fed interest-rate increase is 'very unlikely,' Goldman Sachs says… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-08-16 13:00 UTC*
+*README auto-updated: 2026-08-17 13:00 UTC*
