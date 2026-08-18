@@ -13,15 +13,15 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 ## 📊 Activity (last 7 days)
 
-**Posts published: 52**
+**Posts published: 53**
 
 | Date | Headline |
 |------|----------|
-| 2026-08-16 | Strategy shares soar 50% in a month as Bitcoin tops $80,000 ahead of Q1 earnings… |
-| 2026-08-16 | Aave secures emergency hearing to void ‘catastrophic’ restraining order… |
-| 2026-08-17 | Bitcoin tops $80,000 price as Clarity Act nears Senate floor with new Fed chair … |
-| 2026-08-17 | The bitcoin futures market looks like a crowded club with a tiny exit – and it c… |
-| 2026-08-17 | September Fed interest-rate increase is 'very unlikely,' Goldman Sachs says… |
+| 2026-08-18 | Prediction Markets Give the Fed 74% Odds of Standing Pat in September… |
+| 2026-08-18 | Treasury Proposes Rules Defining Who Can Legally Sell Stablecoins in US… |
+| 2026-08-18 | Alleged $165M crypto Ponzi mastermind faces US charges after Fiji deportation… |
+| 2026-08-18 | Wall Street Pushback Halts SEC's Crypto Fundraising Framework, Sources Say… |
+| 2026-08-18 | XRP sinks below $1 for first time since 2024 even as Korean bank adopts Ripple P… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-08-17 13:00 UTC*
+*README auto-updated: 2026-08-18 13:00 UTC*
