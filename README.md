@@ -13,15 +13,15 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 ## 📊 Activity (last 7 days)
 
-**Posts published: 53**
+**Posts published: 52**
 
 | Date | Headline |
 |------|----------|
-| 2026-08-18 | Prediction Markets Give the Fed 74% Odds of Standing Pat in September… |
-| 2026-08-18 | Treasury Proposes Rules Defining Who Can Legally Sell Stablecoins in US… |
-| 2026-08-18 | Alleged $165M crypto Ponzi mastermind faces US charges after Fiji deportation… |
-| 2026-08-18 | Wall Street Pushback Halts SEC's Crypto Fundraising Framework, Sources Say… |
-| 2026-08-18 | XRP sinks below $1 for first time since 2024 even as Korean bank adopts Ripple P… |
+| 2026-08-19 | Ripple- and Coinbase-funded PAC spends $2M in Florida race with little mention o… |
+| 2026-08-19 | Metaplanet expands Bitcoin treasury strategy to US with 2,100-BTC Nasdaq play… |
+| 2026-08-19 | Bitcoin tags $65K as S&P 500 rebounds from 2-week lows on US-Iran rhetoric… |
+| 2026-08-19 | Maya Protocol exploit drains bitcoin and other assets as pool value drops $11 mi… |
+| 2026-08-19 | Robot maker Unitree’s IPO surges 600% , outpacing crypto traders’ premarket bets… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-08-18 13:00 UTC*
+*README auto-updated: 2026-08-19 13:00 UTC*
