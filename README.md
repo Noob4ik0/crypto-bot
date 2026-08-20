@@ -17,11 +17,11 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 | Date | Headline |
 |------|----------|
-| 2026-08-19 | Ripple- and Coinbase-funded PAC spends $2M in Florida race with little mention o… |
-| 2026-08-19 | Metaplanet expands Bitcoin treasury strategy to US with 2,100-BTC Nasdaq play… |
-| 2026-08-19 | Bitcoin tags $65K as S&P 500 rebounds from 2-week lows on US-Iran rhetoric… |
-| 2026-08-19 | Maya Protocol exploit drains bitcoin and other assets as pool value drops $11 mi… |
-| 2026-08-19 | Robot maker Unitree’s IPO surges 600% , outpacing crypto traders’ premarket bets… |
+| 2026-08-20 | FalconX, Ethena bring USDe backing assets into $1B institutional credit facility… |
+| 2026-08-20 | Bitcoin price hits 11-week high as US Treasury doubles debt buyback size… |
+| 2026-08-20 | SEC regulatory proposal marks ‘important’ step forward from ‘inapt’ crypto rules… |
+| 2026-08-20 | Bearish crypto bets lose record $2.7 billion as bitcoin surges toward $70,000… |
+| 2026-08-20 | Live updates: Bitcoin hits $71,000, ETFs draw $700 million in biggest inflows in… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-08-19 13:00 UTC*
+*README auto-updated: 2026-08-20 13:00 UTC*
