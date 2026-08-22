@@ -13,15 +13,15 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 ## 📊 Activity (last 7 days)
 
-**Posts published: 53**
+**Posts published: 54**
 
 | Date | Headline |
 |------|----------|
-| 2026-08-21 | Bearish crypto bets lose record $3 billion as bitcoin tops $71,000… |
-| 2026-08-21 | CFTC chair says agency will move forward on crypto regulation if CLARITY fails… |
-| 2026-08-21 | Bitcoin miners pour billions into AI as capex outpaces revenue 15-to-1… |
-| 2026-08-21 | Live updates: Bitcoin, ether ETFs pull in $800 million as inflows surge for a se… |
-| 2026-08-21 | Treasury's latest measure isn't QE or YCC. Still, bitcoin is skyrocketing. Here'… |
+| 2026-08-22 | Laser Digital gets Japan’s first crypto exchange approval in 4 years… |
+| 2026-08-22 | Bitcoin ETFs draw $608M as Ether ETFs see largest inflow since October… |
+| 2026-08-22 | Coldcard Adds New Security Measures After $130 Million Bitcoin Exploit… |
+| 2026-08-22 | How a Treasury buyback tweak helped bitcoin surge 25% to nearly $80,000 in days… |
+| 2026-08-22 | Wall Street and Washington Fuel Bitcoin Rally: Here's What's Going On… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-08-21 13:00 UTC*
+*README auto-updated: 2026-08-22 13:00 UTC*
