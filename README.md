@@ -13,15 +13,15 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 ## 📊 Activity (last 7 days)
 
-**Posts published: 50**
+**Posts published: 42**
 
 | Date | Headline |
 |------|----------|
-| 2026-08-24 | Bitcoin tops $80,000 price as Clarity Act nears Senate floor with new Fed chair … |
 | 2026-08-24 | Term Finance loses estimated $8.5M in vault governance exploit… |
 | 2026-08-24 | Crypto holds big weekly rally as Warsh’s Jackson Hole debut comes into focus… |
 | 2026-08-24 | Jackson  Hole Symposium, U.S. PCE prices, IREN earnings: Crypto Week Ahead… |
 | 2026-08-24 | Strategy raises $2 billion through MSTR sales and creates new USD Cash pool… |
+| 2026-08-25 | Grayscale Launches Zcash ETF Following Critical Privacy Flaw That Rocked the Cry… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-08-25 13:00 UTC*
+*README auto-updated: 2026-08-26 13:00 UTC*
