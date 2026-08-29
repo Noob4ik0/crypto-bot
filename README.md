@@ -13,15 +13,15 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 ## 📊 Activity (last 7 days)
 
-**Posts published: 25**
+**Posts published: 16**
 
 | Date | Headline |
 |------|----------|
-| 2026-08-24 | Jackson  Hole Symposium, U.S. PCE prices, IREN earnings: Crypto Week Ahead… |
 | 2026-08-24 | Strategy raises $2 billion through MSTR sales and creates new USD Cash pool… |
 | 2026-08-25 | Grayscale Launches Zcash ETF Following Critical Privacy Flaw That Rocked the Cry… |
 | 2026-08-26 | Crypto CEO Faces US Extradition Over Alleged $20 Million Token Scheme… |
 | 2026-08-27 | Charles Schwab adda Solana, Avalanche and Chainlink to nascent crypto platform… |
+| 2026-08-28 | Live updates: Bitcoin slips as Warsh talks tough on inflation at Jackson Hole… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-08-28 13:00 UTC*
+*README auto-updated: 2026-08-29 13:00 UTC*
