@@ -13,15 +13,15 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 ## 📊 Activity (last 7 days)
 
-**Posts published: 6**
+**Posts published: 7**
 
 | Date | Headline |
 |------|----------|
-| 2026-08-28 | Live updates: Bitcoin slips as Warsh talks tough on inflation at Jackson Hole… |
-| 2026-08-31 | Sberbank plans to add ether and USDT as collateral for crypto-backed loans: Repo… |
 | 2026-08-31 | Tom Lee's Bitmine Buys $131M of ETH in Largest Ethereum Purchase Since June… |
 | 2026-09-01 | SEC proposes broad update to decades-old transfer agent rules with blockchain no… |
 | 2026-09-02 | XRP ETFs pull in $170 million over 11 days. Goldman tops institutional holders… |
+| 2026-09-02 | Hashkey joins DTCC working group as first Asian crypto service provider… |
+| 2026-09-02 | Thailand adopts crypto Travel Rule with self-custodial wallet checks… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-09-02 13:00 UTC*
+*README auto-updated: 2026-09-03 13:00 UTC*
