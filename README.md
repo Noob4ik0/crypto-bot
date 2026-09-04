@@ -13,7 +13,7 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 ## 📊 Activity (last 7 days)
 
-**Posts published: 7**
+**Posts published: 6**
 
 | Date | Headline |
 |------|----------|
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-09-03 13:00 UTC*
+*README auto-updated: 2026-09-04 13:00 UTC*
