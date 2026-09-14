@@ -13,15 +13,15 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 ## 📊 Activity (last 7 days)
 
-**Posts published: 0**
+**Posts published: 9**
 
 | Date | Headline |
 |------|----------|
-| 2026-09-01 | SEC proposes broad update to decades-old transfer agent rules with blockchain no… |
-| 2026-09-02 | XRP ETFs pull in $170 million over 11 days. Goldman tops institutional holders… |
-| 2026-09-02 | Hashkey joins DTCC working group as first Asian crypto service provider… |
-| 2026-09-02 | Thailand adopts crypto Travel Rule with self-custodial wallet checks… |
-| 2026-09-04 | Live updates: Bitcoin tumbles after blowout August jobs print… |
+| 2026-09-13 | UniCredit seeks infrastructure partner for crypto trading, custody: Report… |
+| 2026-09-14 | Crypto Billionaires Hand Reform UK $97M in Record Donations… |
+| 2026-09-14 | Bitcoin Rises as Markets Digest Inflation Data Ahead of Fed Rate Decision… |
+| 2026-09-14 | Blockstream Refuses Ransom for Return of $47M in Bitcoin from Liquid Hack: 'It I… |
+| 2026-09-14 | Drift to issue ‘recovery tokens’ in wake of $295m hack… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-09-13 13:00 UTC*
+*README auto-updated: 2026-09-14 13:00 UTC*
