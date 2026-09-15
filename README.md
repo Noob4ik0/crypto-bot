@@ -13,15 +13,15 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 ## 📊 Activity (last 7 days)
 
-**Posts published: 9**
+**Posts published: 19**
 
 | Date | Headline |
 |------|----------|
-| 2026-09-13 | UniCredit seeks infrastructure partner for crypto trading, custody: Report… |
-| 2026-09-14 | Crypto Billionaires Hand Reform UK $97M in Record Donations… |
-| 2026-09-14 | Bitcoin Rises as Markets Digest Inflation Data Ahead of Fed Rate Decision… |
-| 2026-09-14 | Blockstream Refuses Ransom for Return of $47M in Bitcoin from Liquid Hack: 'It I… |
-| 2026-09-14 | Drift to issue ‘recovery tokens’ in wake of $295m hack… |
+| 2026-09-15 | Symbiosis says recovered 15 BTC from bridge hack, offers 20% bounty… |
+| 2026-09-15 | Strategy Buys Back $139 Million of STRC, Bitcoin Stack Frozen for Second Week… |
+| 2026-09-15 | U.S. DOJ seeks $61 million in what it calls Iran's crypto-laundered black market… |
+| 2026-09-15 | Live updates: Bitcoin slides from nearly $80,000 as Senate votes on Clarity Act… |
+| 2026-09-15 | Live updates: Bitcoin slides to $77,000 as Senate votes on Clarity Act… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-09-14 13:00 UTC*
+*README auto-updated: 2026-09-15 13:00 UTC*
