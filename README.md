@@ -13,15 +13,15 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 ## 📊 Activity (last 7 days)
 
-**Posts published: 28**
+**Posts published: 38**
 
 | Date | Headline |
 |------|----------|
-| 2026-09-16 | Crypto industry reacts after Clarity Act fails Senate vote… |
-| 2026-09-16 | Crypto Clarity Act flames out in failed U.S. Senate vote… |
-| 2026-09-16 | Crypto longs worth $570 million wiped out as Clarity Act fails… |
-| 2026-09-16 | Bitcoin ETFs shed $450M in biggest outflow since June… |
-| 2026-09-16 | Crypto Exchange CoinEx Is Shutting Down After Nine Years, Giving Users Until Dec… |
+| 2026-09-17 | US lawmakers advance bill to lock Trump’s Bitcoin reserve into law… |
+| 2026-09-17 | Bitcoin absorbs Fed rate hike as officials see more tightening… |
+| 2026-09-17 | Zcash jumps 23% as bitcoin and major tokens rise despite Fed’s first hike since … |
+| 2026-09-17 | Ripple adds XRP payments to Stripe and Tempo’s AI standard in new developer kit… |
+| 2026-09-17 | Live updates: Zcash jumps 17% as $345 million of liquidations hit crypto traders… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-09-16 13:00 UTC*
+*README auto-updated: 2026-09-17 13:00 UTC*
