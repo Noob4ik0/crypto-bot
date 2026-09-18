@@ -13,15 +13,15 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 ## 📊 Activity (last 7 days)
 
-**Posts published: 38**
+**Posts published: 47**
 
 | Date | Headline |
 |------|----------|
-| 2026-09-17 | US lawmakers advance bill to lock Trump’s Bitcoin reserve into law… |
-| 2026-09-17 | Bitcoin absorbs Fed rate hike as officials see more tightening… |
-| 2026-09-17 | Zcash jumps 23% as bitcoin and major tokens rise despite Fed’s first hike since … |
-| 2026-09-17 | Ripple adds XRP payments to Stripe and Tempo’s AI standard in new developer kit… |
-| 2026-09-17 | Live updates: Zcash jumps 17% as $345 million of liquidations hit crypto traders… |
+| 2026-09-18 | Real stocks are finally coming on blockchain. Here’s how the SEC wants it to wor… |
+| 2026-09-18 | OG.com cleared by SEC to offer single-stock futures, says Crypto.com CEO… |
+| 2026-09-18 | Bank of Japan raises interest rates by 25 basis points. Bitcoin tops $77,000… |
+| 2026-09-18 | Iran’s Strait of Hormuz toll booth ran through a bitcoin exchange, U.S. says… |
+| 2026-09-18 | UAE, Sweden Arrest Seven Over $7.1M Crypto Laundering Ring Linked to Contract Ki… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-09-17 13:00 UTC*
+*README auto-updated: 2026-09-18 13:00 UTC*
