@@ -13,15 +13,15 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 ## 📊 Activity (last 7 days)
 
-**Posts published: 47**
+**Posts published: 56**
 
 | Date | Headline |
 |------|----------|
-| 2026-09-18 | Real stocks are finally coming on blockchain. Here’s how the SEC wants it to wor… |
-| 2026-09-18 | OG.com cleared by SEC to offer single-stock futures, says Crypto.com CEO… |
-| 2026-09-18 | Bank of Japan raises interest rates by 25 basis points. Bitcoin tops $77,000… |
-| 2026-09-18 | Iran’s Strait of Hormuz toll booth ran through a bitcoin exchange, U.S. says… |
-| 2026-09-18 | UAE, Sweden Arrest Seven Over $7.1M Crypto Laundering Ring Linked to Contract Ki… |
+| 2026-09-19 | CFTC Kicks Off Crypto Rulemaking, Bypassing a Stalled Congress… |
+| 2026-09-19 | Treasury Sanctions Crypto Exchange Behind Iran's Bitcoin Tolls on Hormuz Ships… |
+| 2026-09-19 | CFTC Opens Door for Crypto Apps to Offer Regulated Derivatives Access… |
+| 2026-09-19 | Aave secures emergency hearing to void ‘catastrophic’ restraining order… |
+| 2026-09-19 | Hong Kong jails former banker over $1.6B false credit, cryptocurrency bribes: Re… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-09-18 13:00 UTC*
+*README auto-updated: 2026-09-19 13:00 UTC*
