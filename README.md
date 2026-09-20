@@ -13,15 +13,15 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 ## 📊 Activity (last 7 days)
 
-**Posts published: 56**
+**Posts published: 57**
 
 | Date | Headline |
 |------|----------|
-| 2026-09-19 | CFTC Kicks Off Crypto Rulemaking, Bypassing a Stalled Congress… |
-| 2026-09-19 | Treasury Sanctions Crypto Exchange Behind Iran's Bitcoin Tolls on Hormuz Ships… |
-| 2026-09-19 | CFTC Opens Door for Crypto Apps to Offer Regulated Derivatives Access… |
-| 2026-09-19 | Aave secures emergency hearing to void ‘catastrophic’ restraining order… |
-| 2026-09-19 | Hong Kong jails former banker over $1.6B false credit, cryptocurrency bribes: Re… |
+| 2026-09-19 | 'We have lost control': Crypto pioneer warns AI could trigger systemic banking a… |
+| 2026-09-19 | How the Clarity Act's Defeat Handed the SEC and CFTC the Wheel on Crypto… |
+| 2026-09-19 | Crypto companies raised $600m in April despite despite market downturn, VCs say… |
+| 2026-09-20 | Crypto industry reels as April sees highest number of hacks ever… |
+| 2026-09-20 | Hong Kong jails ex-banker over $1.6B false credit, cryptocurrency bribes: Report… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-09-19 13:00 UTC*
+*README auto-updated: 2026-09-20 13:00 UTC*
