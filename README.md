@@ -13,15 +13,15 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 ## 📊 Activity (last 7 days)
 
-**Posts published: 51**
+**Posts published: 50**
 
 | Date | Headline |
 |------|----------|
-| 2026-09-20 | Crypto industry reels as April sees highest number of hacks ever… |
-| 2026-09-20 | Hong Kong jails ex-banker over $1.6B false credit, cryptocurrency bribes: Report… |
-| 2026-09-21 | Hana Bank taps Euroclear blockchain for $100M bond issuance: Report… |
-| 2026-09-21 | ZetaChain holders approve plan to wind down L1, move ZETA to Solana… |
-| 2026-09-21 | Live updates: Bitcoin hits $85,000 as short liquidations hit $300 million in an … |
+| 2026-09-21 | Strategy's Bitcoin Pile Nears June Record After $76M Purchase… |
+| 2026-09-22 | Drift to issue ‘recovery tokens’ in wake of $295m hack… |
+| 2026-09-22 | Manhattan US Attorney leading probe into Binance’s Iran compliance: Bloomberg… |
+| 2026-09-22 | Animoca puts Currenc merger on ice, delaying its Nasdaq debut… |
+| 2026-09-22 | Spot bitcoin ETFs attracted nearly $1 billion on Monday, the 9th largest inflow … |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-09-21 13:00 UTC*
+*README auto-updated: 2026-09-22 13:00 UTC*
