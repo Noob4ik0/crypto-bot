@@ -13,15 +13,15 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 ## 📊 Activity (last 7 days)
 
-**Posts published: 50**
+**Posts published: 51**
 
 | Date | Headline |
 |------|----------|
-| 2026-09-21 | Strategy's Bitcoin Pile Nears June Record After $76M Purchase… |
-| 2026-09-22 | Drift to issue ‘recovery tokens’ in wake of $295m hack… |
-| 2026-09-22 | Manhattan US Attorney leading probe into Binance’s Iran compliance: Bloomberg… |
-| 2026-09-22 | Animoca puts Currenc merger on ice, delaying its Nasdaq debut… |
-| 2026-09-22 | Spot bitcoin ETFs attracted nearly $1 billion on Monday, the 9th largest inflow … |
+| 2026-09-23 | Binance takes $100M stake in Circle under expanded USDC deal… |
+| 2026-09-23 | Crypto market cap reclaims $3 trillion as Bitcoin, altcoins rally… |
+| 2026-09-23 | Solana starts testing upgrade that could cut finality from 12.8 seconds to 150 m… |
+| 2026-09-23 | Bitcoin ETFs take in $1.7B in 2 days as BTC tops holder cost basis… |
+| 2026-09-23 | Malicious iOS app FomoPeek linked to $580K crypto theft, SlowMist says… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-09-22 13:00 UTC*
+*README auto-updated: 2026-09-23 13:00 UTC*
