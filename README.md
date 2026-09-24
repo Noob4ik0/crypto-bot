@@ -13,15 +13,15 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 ## 📊 Activity (last 7 days)
 
-**Posts published: 51**
+**Posts published: 49**
 
 | Date | Headline |
 |------|----------|
-| 2026-09-23 | Binance takes $100M stake in Circle under expanded USDC deal… |
-| 2026-09-23 | Crypto market cap reclaims $3 trillion as Bitcoin, altcoins rally… |
-| 2026-09-23 | Solana starts testing upgrade that could cut finality from 12.8 seconds to 150 m… |
-| 2026-09-23 | Bitcoin ETFs take in $1.7B in 2 days as BTC tops holder cost basis… |
-| 2026-09-23 | Malicious iOS app FomoPeek linked to $580K crypto theft, SlowMist says… |
+| 2026-09-23 | Crypto Exchange That Invented 100x Leverage Is No More: Here’s What BitMEX Users… |
+| 2026-09-24 | Ex-SEC acting chair: Agency dropped crypto cases to avoid issues with credibilit… |
+| 2026-09-24 | An AI Agent Just Hacked a Government Website for the First Time, Australia PM Sa… |
+| 2026-09-24 | NYSE Taps Blockchain.com to Reach Crypto Investors With Tokenized Stocks… |
+| 2026-09-24 | EU financial watchdogs warn quantum computing poses imminent threat to blockchai… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-09-23 13:00 UTC*
+*README auto-updated: 2026-09-24 13:00 UTC*
