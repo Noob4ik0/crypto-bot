@@ -17,11 +17,11 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 | Date | Headline |
 |------|----------|
-| 2026-09-23 | Crypto Exchange That Invented 100x Leverage Is No More: Here’s What BitMEX Users… |
-| 2026-09-24 | Ex-SEC acting chair: Agency dropped crypto cases to avoid issues with credibilit… |
-| 2026-09-24 | An AI Agent Just Hacked a Government Website for the First Time, Australia PM Sa… |
-| 2026-09-24 | NYSE Taps Blockchain.com to Reach Crypto Investors With Tokenized Stocks… |
-| 2026-09-24 | EU financial watchdogs warn quantum computing poses imminent threat to blockchai… |
+| 2026-09-25 | U.S. Federal Reserve moves on proposals to implement GENIUS Act for stablecoins… |
+| 2026-09-25 | Bitget CEO suspects North Korea behind $352M hack, citing IP clues… |
+| 2026-09-25 | Asia dominates Crypto Adoption Index, Bitget’s $352M hack: Asia Express… |
+| 2026-09-25 | Bitget's $352 million hack happened via spoofed transfers, not private keys, CEO… |
+| 2026-09-25 | Bitcoin ETFs have erased a $5.8 billion hole… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-09-24 13:00 UTC*
+*README auto-updated: 2026-09-25 13:00 UTC*
