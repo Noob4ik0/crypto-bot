@@ -13,15 +13,15 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 ## 📊 Activity (last 7 days)
 
-**Posts published: 49**
+**Posts published: 55**
 
 | Date | Headline |
 |------|----------|
-| 2026-09-26 | Another appeals court rules against prediction market provider Kalshi, says spor… |
-| 2026-09-26 | Bitget clarifies $388M in assets affected by security breach… |
-| 2026-09-26 | KelpDAO sues LayerZero, CEO over $292M rsETH bridge exploit… |
-| 2026-09-26 | Bitcoin ETF inflows slow to $191M as six-day streak reaches $2.8B… |
-| 2026-09-26 | Bitget Hack Losses Climb to $387M: Here’s What Happened, and Why North Korea Is … |
+| 2026-09-26 | Strategy shares soar 50% in a month as Bitcoin tops $80,000 ahead of Q1 earnings… |
+| 2026-09-26 | Aave secures emergency hearing to void ‘catastrophic’ restraining order… |
+| 2026-09-27 | Bitcoin tops $80,000 price as Clarity Act nears Senate floor with new Fed chair … |
+| 2026-09-27 | Crypto companies raised $600m in April despite despite market downturn, VCs say… |
+| 2026-09-27 | Crypto industry reels as April sees highest number of hacks ever… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-09-26 13:00 UTC*
+*README auto-updated: 2026-09-27 13:00 UTC*
