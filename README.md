@@ -13,15 +13,15 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 ## 📊 Activity (last 7 days)
 
-**Posts published: 55**
+**Posts published: 54**
 
 | Date | Headline |
 |------|----------|
-| 2026-09-26 | Strategy shares soar 50% in a month as Bitcoin tops $80,000 ahead of Q1 earnings… |
-| 2026-09-26 | Aave secures emergency hearing to void ‘catastrophic’ restraining order… |
-| 2026-09-27 | Bitcoin tops $80,000 price as Clarity Act nears Senate floor with new Fed chair … |
-| 2026-09-27 | Crypto companies raised $600m in April despite despite market downturn, VCs say… |
-| 2026-09-27 | Crypto industry reels as April sees highest number of hacks ever… |
+| 2026-09-27 | Bitcoin's Quantum Problem: Three Ways Researchers Are Trying to Fix It… |
+| 2026-09-28 | Zano rolls blockchain back a month after Gateway Address exploit… |
+| 2026-09-28 | Bitcoin, Nasdaq futures decline as Trump won’t rule out more Iran strikes… |
+| 2026-09-28 | Solana ETFs draw record $188 million in a week as Bitwise takes two-thirds of in… |
+| 2026-09-28 | Bitget hacker moves $83 million in stolen XRP beyond reach of freeze controls… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-09-27 13:00 UTC*
+*README auto-updated: 2026-09-28 13:00 UTC*
