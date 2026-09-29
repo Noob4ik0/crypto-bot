@@ -13,15 +13,15 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 ## 📊 Activity (last 7 days)
 
-**Posts published: 54**
+**Posts published: 55**
 
 | Date | Headline |
 |------|----------|
-| 2026-09-27 | Bitcoin's Quantum Problem: Three Ways Researchers Are Trying to Fix It… |
-| 2026-09-28 | Zano rolls blockchain back a month after Gateway Address exploit… |
-| 2026-09-28 | Bitcoin, Nasdaq futures decline as Trump won’t rule out more Iran strikes… |
-| 2026-09-28 | Solana ETFs draw record $188 million in a week as Bitwise takes two-thirds of in… |
-| 2026-09-28 | Bitget hacker moves $83 million in stolen XRP beyond reach of freeze controls… |
+| 2026-09-29 | US SEC follows CFTC in staff guidance for crypto… |
+| 2026-09-29 | NEAR Intents says it blocked $50M tied to Bitget hackers… |
+| 2026-09-29 | Coinbase gets CFTC approval for US derivatives clearinghouse… |
+| 2026-09-29 | Near Intents blocks $50 million in Bitget hacker swaps, here's what happened… |
+| 2026-09-29 | Blockchain.com targets $500 million IPO this year at up to $6 billion valuation… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-09-28 13:00 UTC*
+*README auto-updated: 2026-09-29 13:00 UTC*
