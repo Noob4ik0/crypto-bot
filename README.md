@@ -17,11 +17,11 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 | Date | Headline |
 |------|----------|
-| 2026-09-29 | US SEC follows CFTC in staff guidance for crypto… |
-| 2026-09-29 | NEAR Intents says it blocked $50M tied to Bitget hackers… |
-| 2026-09-29 | Coinbase gets CFTC approval for US derivatives clearinghouse… |
-| 2026-09-29 | Near Intents blocks $50 million in Bitget hacker swaps, here's what happened… |
-| 2026-09-29 | Blockchain.com targets $500 million IPO this year at up to $6 billion valuation… |
+| 2026-09-30 | Bitwise Launches First US Spot Near ETF After Token Nearly Triples Since August… |
+| 2026-09-30 | Crypto ETFs Surge as Bitcoin Funds Add $2.95 Billion in 30 Days… |
+| 2026-09-30 | XRP Ledger starts carrying fund records from Brazil operator overseeing $4 trill… |
+| 2026-09-30 | Robinhood announces AI agent for customers that trades around the clock, plus 10… |
+| 2026-09-30 | Bitcoin ETFs stretch $3.1B inflow streak as Ether funds turn red… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-09-29 13:00 UTC*
+*README auto-updated: 2026-09-30 13:00 UTC*
