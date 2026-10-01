@@ -13,15 +13,15 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 ## 📊 Activity (last 7 days)
 
-**Posts published: 55**
+**Posts published: 56**
 
 | Date | Headline |
 |------|----------|
-| 2026-09-30 | Bitwise Launches First US Spot Near ETF After Token Nearly Triples Since August… |
-| 2026-09-30 | Crypto ETFs Surge as Bitcoin Funds Add $2.95 Billion in 30 Days… |
-| 2026-09-30 | XRP Ledger starts carrying fund records from Brazil operator overseeing $4 trill… |
-| 2026-09-30 | Robinhood announces AI agent for customers that trades around the clock, plus 10… |
-| 2026-09-30 | Bitcoin ETFs stretch $3.1B inflow streak as Ether funds turn red… |
+| 2026-10-01 | SlowMist traces Bitget hack activity to Aug. 31 zero-day exploit… |
+| 2026-10-01 | MetaMask exits Ethereum validators amid undisclosed security incident… |
+| 2026-10-01 | CFTC Sends White House New Rules to Cement Its Grip on Prediction Markets… |
+| 2026-10-01 | Crypto hacks top $768M in September, worst month of 2026… |
+| 2026-10-01 | Bitcoin ETFs draw $6.3B in Q3 as BTC price rises nearly 43%… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-09-30 13:00 UTC*
+*README auto-updated: 2026-10-01 13:00 UTC*
