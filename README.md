@@ -13,15 +13,15 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 ## 📊 Activity (last 7 days)
 
-**Posts published: 56**
+**Posts published: 57**
 
 | Date | Headline |
 |------|----------|
-| 2026-10-01 | SlowMist traces Bitget hack activity to Aug. 31 zero-day exploit… |
-| 2026-10-01 | MetaMask exits Ethereum validators amid undisclosed security incident… |
-| 2026-10-01 | CFTC Sends White House New Rules to Cement Its Grip on Prediction Markets… |
-| 2026-10-01 | Crypto hacks top $768M in September, worst month of 2026… |
-| 2026-10-01 | Bitcoin ETFs draw $6.3B in Q3 as BTC price rises nearly 43%… |
+| 2026-10-02 | The 'Largest Pure-Play' XRP Treasury Is About to Go Public… |
+| 2026-10-02 | SEC moves to clear custody hurdle for advisers offering crypto… |
+| 2026-10-02 | Near Intents Hacked for $3.8M Days After Denying North Korea-Linked Bitget Hacke… |
+| 2026-10-02 | Zano exploiter minted more than a quadrillion fUSD before blockchain rollback… |
+| 2026-10-02 | NEAR Intents says it’s identified the hacker, gives 48-hour ultimatum… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-10-01 13:00 UTC*
+*README auto-updated: 2026-10-02 13:00 UTC*
