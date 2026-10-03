@@ -13,15 +13,15 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 ## 📊 Activity (last 7 days)
 
-**Posts published: 57**
+**Posts published: 56**
 
 | Date | Headline |
 |------|----------|
-| 2026-10-02 | The 'Largest Pure-Play' XRP Treasury Is About to Go Public… |
-| 2026-10-02 | SEC moves to clear custody hurdle for advisers offering crypto… |
-| 2026-10-02 | Near Intents Hacked for $3.8M Days After Denying North Korea-Linked Bitget Hacke… |
-| 2026-10-02 | Zano exploiter minted more than a quadrillion fUSD before blockchain rollback… |
-| 2026-10-02 | NEAR Intents says it’s identified the hacker, gives 48-hour ultimatum… |
+| 2026-10-03 | Bank group sues U.S. regulator over granting crypto trust charters… |
+| 2026-10-03 | Crypto traders are in risk-on mode as bitcoin dominance nears return to 60%… |
+| 2026-10-03 | $4.2B crypto bank Anchorage Digital cuts 17% of workforce: Report… |
+| 2026-10-03 | Crypto’s billions are back, but the premiums aren’t… |
+| 2026-10-03 | Once a $2.3 Billion Network, Ethereum Layer-2 Blast Is Shutting Down… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-10-02 13:00 UTC*
+*README auto-updated: 2026-10-03 13:00 UTC*
