@@ -13,15 +13,15 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 ## 📊 Activity (last 7 days)
 
-**Posts published: 56**
+**Posts published: 54**
 
 | Date | Headline |
 |------|----------|
-| 2026-10-03 | Bank group sues U.S. regulator over granting crypto trust charters… |
-| 2026-10-03 | Crypto traders are in risk-on mode as bitcoin dominance nears return to 60%… |
-| 2026-10-03 | $4.2B crypto bank Anchorage Digital cuts 17% of workforce: Report… |
 | 2026-10-03 | Crypto’s billions are back, but the premiums aren’t… |
 | 2026-10-03 | Once a $2.3 Billion Network, Ethereum Layer-2 Blast Is Shutting Down… |
+| 2026-10-03 | Drift to issue ‘recovery tokens’ in wake of $295m hack… |
+| 2026-10-03 | Chainalysis Used AI to Trace the $387M Bitget Hack Back to North Korea… |
+| 2026-10-04 | Aave secures emergency hearing to void ‘catastrophic’ restraining order… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-10-03 13:00 UTC*
+*README auto-updated: 2026-10-04 13:00 UTC*
