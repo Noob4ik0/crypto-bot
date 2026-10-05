@@ -13,15 +13,15 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 ## 📊 Activity (last 7 days)
 
-**Posts published: 54**
+**Posts published: 50**
 
 | Date | Headline |
 |------|----------|
-| 2026-10-03 | Crypto’s billions are back, but the premiums aren’t… |
-| 2026-10-03 | Once a $2.3 Billion Network, Ethereum Layer-2 Blast Is Shutting Down… |
-| 2026-10-03 | Drift to issue ‘recovery tokens’ in wake of $295m hack… |
-| 2026-10-03 | Chainalysis Used AI to Trace the $387M Bitget Hack Back to North Korea… |
 | 2026-10-04 | Aave secures emergency hearing to void ‘catastrophic’ restraining order… |
+| 2026-10-04 | Bitcoin tops $80,000 price as Clarity Act nears Senate floor with new Fed chair … |
+| 2026-10-04 | Crypto companies raised $600m in April despite despite market downturn, VCs say… |
+| 2026-10-04 | Banking Group Sues to Block Crypto's 'Side Door' Into the Banking System… |
+| 2026-10-04 | Crypto industry reels as April sees highest number of hacks ever… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-10-04 13:00 UTC*
+*README auto-updated: 2026-10-05 13:00 UTC*
