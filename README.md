@@ -17,11 +17,11 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 | Date | Headline |
 |------|----------|
-| 2026-10-06 | Strive Adds $169M Bitcoin in Its Biggest Buy in Four Months… |
-| 2026-10-06 | Solana Debuts Institutional Settlement Standard With J.P. Morgan Input… |
-| 2026-10-06 | U.S. scraps proposed $10,000 reporting rule for for crypto sent to private walle… |
-| 2026-10-06 | Solana Foundation unveils a program to settle institutional trades in seconds. J… |
-| 2026-10-06 | Hong Kong officials double down on end-2026 deadline for crypto licensing bill… |
+| 2026-10-07 | Another Zcash ETF Is Coming: Winklevoss Twins File for 'WINK'… |
+| 2026-10-07 | Circle, Ripple and Standard Chartered Back OKX at Flat $25B Valuation… |
+| 2026-10-07 | Morning Minute: The CFTC Reveals Plan to Regulate Crypto Exchanges… |
+| 2026-10-07 | U.S. government moves over $100 million in BTC and BNB. A sale hasn't been confi… |
+| 2026-10-07 | Crypto liquidations hit $550M as Bitcoin price dips below $84K… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-10-06 13:00 UTC*
+*README auto-updated: 2026-10-07 13:00 UTC*
