@@ -13,15 +13,15 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 ## 📊 Activity (last 7 days)
 
-**Posts published: 50**
+**Posts published: 49**
 
 | Date | Headline |
 |------|----------|
-| 2026-10-07 | Another Zcash ETF Is Coming: Winklevoss Twins File for 'WINK'… |
-| 2026-10-07 | Circle, Ripple and Standard Chartered Back OKX at Flat $25B Valuation… |
-| 2026-10-07 | Morning Minute: The CFTC Reveals Plan to Regulate Crypto Exchanges… |
-| 2026-10-07 | U.S. government moves over $100 million in BTC and BNB. A sale hasn't been confi… |
-| 2026-10-07 | Crypto liquidations hit $550M as Bitcoin price dips below $84K… |
+| 2026-10-08 | Liquidations jump to $547 million as oil rally hits crypto market… |
+| 2026-10-08 | Coinbase brings global crypto derivatives liquidity to US with Deribit integrati… |
+| 2026-10-08 | US Government Moves $103 Million in Seized Bitcoin and BNB, But Hasn't Said Why… |
+| 2026-10-08 | Bitmine's Relentless Ethereum Buying Is About to End, Tom Lee Says… |
+| 2026-10-08 | Standard Chartered to expand institutional crypto and RWA custody to Singapore… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-10-07 13:00 UTC*
+*README auto-updated: 2026-10-08 13:00 UTC*
