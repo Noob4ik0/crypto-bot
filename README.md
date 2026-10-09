@@ -17,11 +17,11 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 | Date | Headline |
 |------|----------|
-| 2026-10-08 | Liquidations jump to $547 million as oil rally hits crypto market… |
-| 2026-10-08 | Coinbase brings global crypto derivatives liquidity to US with Deribit integrati… |
-| 2026-10-08 | US Government Moves $103 Million in Seized Bitcoin and BNB, But Hasn't Said Why… |
-| 2026-10-08 | Bitmine's Relentless Ethereum Buying Is About to End, Tom Lee Says… |
-| 2026-10-08 | Standard Chartered to expand institutional crypto and RWA custody to Singapore… |
+| 2026-10-09 | Securitize brings Apple, Nvidia and Tesla to Solana, with NYSE trading in the wo… |
+| 2026-10-09 | US government moves $1B in seized Bitcoin after $770M transfers… |
+| 2026-10-09 | Ether bets were wiped out at six times bitcoin’s rate in crypto’s $1 billion flu… |
+| 2026-10-09 | New tech to power bitcoin lending is set to debut with $500 million in commitmen… |
+| 2026-10-09 | Dark web drug market operator sentenced to 40 years, forfeits $101 million in bi… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-10-08 13:00 UTC*
+*README auto-updated: 2026-10-09 13:00 UTC*
