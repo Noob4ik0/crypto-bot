@@ -13,15 +13,15 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 ## 📊 Activity (last 7 days)
 
-**Posts published: 49**
+**Posts published: 52**
 
 | Date | Headline |
 |------|----------|
-| 2026-10-09 | Securitize brings Apple, Nvidia and Tesla to Solana, with NYSE trading in the wo… |
-| 2026-10-09 | US government moves $1B in seized Bitcoin after $770M transfers… |
-| 2026-10-09 | Ether bets were wiped out at six times bitcoin’s rate in crypto’s $1 billion flu… |
-| 2026-10-09 | New tech to power bitcoin lending is set to debut with $500 million in commitmen… |
-| 2026-10-09 | Dark web drug market operator sentenced to 40 years, forfeits $101 million in bi… |
+| 2026-10-10 | US plans to seize $1B in crypto linked to Iran this week: Scott Bessent… |
+| 2026-10-10 | UK sanctions three crypto exchanges tied to Russian illicit funds… |
+| 2026-10-10 | XRP Ledger patched decade-old bug that could create billions of dollars in XRP f… |
+| 2026-10-10 | Blockchain.com Seeks Approval for US Prediction Markets and Crypto Derivatives… |
+| 2026-10-10 | Ledger Probes Potential Theft of $87M in User Funds Tied to Crypto Wallet Resell… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-10-09 13:00 UTC*
+*README auto-updated: 2026-10-10 13:00 UTC*
