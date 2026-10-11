@@ -13,15 +13,15 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 ## 📊 Activity (last 7 days)
 
-**Posts published: 52**
+**Posts published: 50**
 
 | Date | Headline |
 |------|----------|
-| 2026-10-10 | US plans to seize $1B in crypto linked to Iran this week: Scott Bessent… |
-| 2026-10-10 | UK sanctions three crypto exchanges tied to Russian illicit funds… |
-| 2026-10-10 | XRP Ledger patched decade-old bug that could create billions of dollars in XRP f… |
 | 2026-10-10 | Blockchain.com Seeks Approval for US Prediction Markets and Crypto Derivatives… |
 | 2026-10-10 | Ledger Probes Potential Theft of $87M in User Funds Tied to Crypto Wallet Resell… |
+| 2026-10-10 | French Committee Backs Stablecoin Swap Tax and Crypto Exit Tax, Then Rejects the… |
+| 2026-10-10 | UK Targets Cryptomus and TokenSpot in New Russia Sanctions Package… |
+| 2026-10-10 | Drift to issue ‘recovery tokens’ in wake of $295m hack… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-10-10 13:00 UTC*
+*README auto-updated: 2026-10-11 13:00 UTC*
