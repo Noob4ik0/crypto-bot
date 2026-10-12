@@ -13,15 +13,15 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 ## 📊 Activity (last 7 days)
 
-**Posts published: 50**
+**Posts published: 52**
 
 | Date | Headline |
 |------|----------|
-| 2026-10-10 | Blockchain.com Seeks Approval for US Prediction Markets and Crypto Derivatives… |
-| 2026-10-10 | Ledger Probes Potential Theft of $87M in User Funds Tied to Crypto Wallet Resell… |
-| 2026-10-10 | French Committee Backs Stablecoin Swap Tax and Crypto Exit Tax, Then Rejects the… |
-| 2026-10-10 | UK Targets Cryptomus and TokenSpot in New Russia Sanctions Package… |
-| 2026-10-10 | Drift to issue ‘recovery tokens’ in wake of $295m hack… |
+| 2026-10-12 | Ledger attack spreads to EU, AI finds ’18 trillion XRP’ bug: Hodler’s Digest… |
+| 2026-10-12 | XRP Ledger defends emergency patch for unlimited XRP bug… |
+| 2026-10-12 | Crypto industry reels as April sees highest number of hacks ever… |
+| 2026-10-12 | French lawmakers back reporting rule for crypto wallets over $112K… |
+| 2026-10-12 | Ledger says unauthorized implant found in at least one device sold by CryptoBili… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-10-11 13:00 UTC*
+*README auto-updated: 2026-10-12 13:00 UTC*
