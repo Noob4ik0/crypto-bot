@@ -13,15 +13,15 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 ## 📊 Activity (last 7 days)
 
-**Posts published: 52**
+**Posts published: 53**
 
 | Date | Headline |
 |------|----------|
-| 2026-10-12 | Ledger attack spreads to EU, AI finds ’18 trillion XRP’ bug: Hodler’s Digest… |
-| 2026-10-12 | XRP Ledger defends emergency patch for unlimited XRP bug… |
-| 2026-10-12 | Crypto industry reels as April sees highest number of hacks ever… |
-| 2026-10-12 | French lawmakers back reporting rule for crypto wallets over $112K… |
-| 2026-10-12 | Ledger says unauthorized implant found in at least one device sold by CryptoBili… |
+| 2026-10-13 | South Korean bank launches Bitcoin-backed business loans: Report… |
+| 2026-10-13 | South Korea moves to block 27 crypto websites, including KuCoin, MEXC… |
+| 2026-10-13 | Tokenized SanDisk bets saw more liquidations than XRP as Asia’s chip rout wipes … |
+| 2026-10-13 | Once-largest Ethereum NFT marketplace Blur is shutting down after volumes collap… |
+| 2026-10-13 | Ledger says 'spy' chip inside CryptoBilis Ledger devices transmitted wallet keys… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-10-12 13:00 UTC*
+*README auto-updated: 2026-10-13 13:00 UTC*
