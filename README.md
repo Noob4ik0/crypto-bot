@@ -17,11 +17,11 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 | Date | Headline |
 |------|----------|
-| 2026-10-13 | South Korean bank launches Bitcoin-backed business loans: Report… |
-| 2026-10-13 | South Korea moves to block 27 crypto websites, including KuCoin, MEXC… |
-| 2026-10-13 | Tokenized SanDisk bets saw more liquidations than XRP as Asia’s chip rout wipes … |
-| 2026-10-13 | Once-largest Ethereum NFT marketplace Blur is shutting down after volumes collap… |
-| 2026-10-13 | Ledger says 'spy' chip inside CryptoBilis Ledger devices transmitted wallet keys… |
+| 2026-10-14 | Strive raising $500 million to buy additional bitcoin with new preferred share c… |
+| 2026-10-14 | Largest Philippines crypto exchange, Coins.ph, said to face central bank regulat… |
+| 2026-10-14 | Russia clears Sberbank for crypto trading ahead of December launch… |
+| 2026-10-14 | Ripple adds Stripe-owned wallets to XRP Ledger as AI payments pass 14 million… |
+| 2026-10-14 | Standard Chartered unlocks direct bitcoin and ether trading for affluent UAE cli… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-10-13 13:00 UTC*
+*README auto-updated: 2026-10-14 13:00 UTC*
