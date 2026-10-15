@@ -17,11 +17,11 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 | Date | Headline |
 |------|----------|
-| 2026-10-14 | Strive raising $500 million to buy additional bitcoin with new preferred share c… |
-| 2026-10-14 | Largest Philippines crypto exchange, Coins.ph, said to face central bank regulat… |
-| 2026-10-14 | Russia clears Sberbank for crypto trading ahead of December launch… |
-| 2026-10-14 | Ripple adds Stripe-owned wallets to XRP Ledger as AI payments pass 14 million… |
-| 2026-10-14 | Standard Chartered unlocks direct bitcoin and ether trading for affluent UAE cli… |
+| 2026-10-15 | Russia's Biggest Bank Sberbank Wins Approval to Trade Bitcoin… |
+| 2026-10-15 | Polygon gains US payments licenses after closing Coinme deal… |
+| 2026-10-15 | Bitcoin wilts as Fed rate uncertainty weighs. Kospi plunges 8%… |
+| 2026-10-15 | Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide… |
+| 2026-10-15 | South Korea plans cybersecurity overhaul after attacks hit banks, crypto firms… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-10-14 13:00 UTC*
+*README auto-updated: 2026-10-15 13:00 UTC*
