@@ -13,15 +13,15 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 ## 📊 Activity (last 7 days)
 
-**Posts published: 53**
+**Posts published: 52**
 
 | Date | Headline |
 |------|----------|
-| 2026-10-15 | Russia's Biggest Bank Sberbank Wins Approval to Trade Bitcoin… |
-| 2026-10-15 | Polygon gains US payments licenses after closing Coinme deal… |
-| 2026-10-15 | Bitcoin wilts as Fed rate uncertainty weighs. Kospi plunges 8%… |
-| 2026-10-15 | Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide… |
-| 2026-10-15 | South Korea plans cybersecurity overhaul after attacks hit banks, crypto firms… |
+| 2026-10-16 | Binance.US seeks $1B valuation in potential $100M funding round: Report… |
+| 2026-10-16 | White House crypto council chief Patrick Witt steps down… |
+| 2026-10-16 | Russia Will Soon Ban Peer-to-Peer Bitcoin Trading, Central Bank Confirms… |
+| 2026-10-16 | Mastercard and BVNK Launch 'Global Money Platform' to Merge Fiat and Stablecoins… |
+| 2026-10-16 | Capital B reports $78M H1 loss driven by Bitcoin impairment charge… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-10-15 13:00 UTC*
+*README auto-updated: 2026-10-16 13:00 UTC*
