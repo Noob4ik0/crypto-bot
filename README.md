@@ -13,15 +13,15 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 ## 📊 Activity (last 7 days)
 
-**Posts published: 52**
+**Posts published: 48**
 
 | Date | Headline |
 |------|----------|
-| 2026-10-16 | Binance.US seeks $1B valuation in potential $100M funding round: Report… |
-| 2026-10-16 | White House crypto council chief Patrick Witt steps down… |
-| 2026-10-16 | Russia Will Soon Ban Peer-to-Peer Bitcoin Trading, Central Bank Confirms… |
-| 2026-10-16 | Mastercard and BVNK Launch 'Global Money Platform' to Merge Fiat and Stablecoins… |
 | 2026-10-16 | Capital B reports $78M H1 loss driven by Bitcoin impairment charge… |
+| 2026-10-16 | Morning Minute: Google Clears a Major Quantum Hurdle, Bitcoin Still Safe… |
+| 2026-10-16 | Deutsche Bank prepares German crypto custody launch, eyes Asia: Report… |
+| 2026-10-16 | Live updates: Crypto gives up more ground as AI selloff picks up steam… |
+| 2026-10-17 | Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow brea… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-10-16 13:00 UTC*
+*README auto-updated: 2026-10-17 13:00 UTC*
