@@ -13,15 +13,15 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 ## 📊 Activity (last 7 days)
 
-**Posts published: 48**
+**Posts published: 50**
 
 | Date | Headline |
 |------|----------|
-| 2026-10-16 | Capital B reports $78M H1 loss driven by Bitcoin impairment charge… |
-| 2026-10-16 | Morning Minute: Google Clears a Major Quantum Hurdle, Bitcoin Still Safe… |
-| 2026-10-16 | Deutsche Bank prepares German crypto custody launch, eyes Asia: Report… |
-| 2026-10-16 | Live updates: Crypto gives up more ground as AI selloff picks up steam… |
 | 2026-10-17 | Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow brea… |
+| 2026-10-17 | Polygon sees Coinme acquisition as entry to payments sector dominated by Visa, S… |
+| 2026-10-17 | Crypto Firms Launch Quantum Alliance as 6 Million Bitcoin Sit Exposed… |
+| 2026-10-17 | Drift to issue ‘recovery tokens’ in wake of $295m hack… |
+| 2026-10-18 | Cysic crypto bridge halted after unauthorized mint of 10M CYS… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-10-17 13:00 UTC*
+*README auto-updated: 2026-10-18 13:00 UTC*
