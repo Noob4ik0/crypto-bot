@@ -17,11 +17,11 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 | Date | Headline |
 |------|----------|
-| 2026-10-17 | Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow brea… |
-| 2026-10-17 | Polygon sees Coinme acquisition as entry to payments sector dominated by Visa, S… |
-| 2026-10-17 | Crypto Firms Launch Quantum Alliance as 6 Million Bitcoin Sit Exposed… |
-| 2026-10-17 | Drift to issue ‘recovery tokens’ in wake of $295m hack… |
-| 2026-10-18 | Cysic crypto bridge halted after unauthorized mint of 10M CYS… |
+| 2026-10-19 | Bitcoin tops $80,000 price as Clarity Act nears Senate floor with new Fed chair … |
+| 2026-10-19 | Deutsche Bank targets Asia crypto custody expansion in 2027 as German launch nea… |
+| 2026-10-19 | Bitcoin, Korea’s Kospi and Nasdaq futures rally as China GDP beats estimates… |
+| 2026-10-19 | Crypto companies raised $600m in April despite despite market downturn, VCs say… |
+| 2026-10-19 | Crypto vault deposits top $10 billion as lending risks draw regulatory scrutiny… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-10-18 13:00 UTC*
+*README auto-updated: 2026-10-19 13:00 UTC*
