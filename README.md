@@ -17,11 +17,11 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 | Date | Headline |
 |------|----------|
-| 2026-10-19 | Bitcoin tops $80,000 price as Clarity Act nears Senate floor with new Fed chair … |
-| 2026-10-19 | Deutsche Bank targets Asia crypto custody expansion in 2027 as German launch nea… |
-| 2026-10-19 | Bitcoin, Korea’s Kospi and Nasdaq futures rally as China GDP beats estimates… |
-| 2026-10-19 | Crypto companies raised $600m in April despite despite market downturn, VCs say… |
-| 2026-10-19 | Crypto vault deposits top $10 billion as lending risks draw regulatory scrutiny… |
+| 2026-10-20 | Strive buys $335M in Bitcoin, boosting holdings to 36,818 BTC… |
+| 2026-10-20 | Strategy buys $22M in Bitcoin, repurchases $193M in STRC… |
+| 2026-10-20 | Strive Buys $335 Million in Bitcoin After Investors Pour In $369 Million… |
+| 2026-10-20 | US Bitcoin ETFs draw $527M in biggest showing since September… |
+| 2026-10-20 | Bitcoin ETFs just saw their biggest day in a month thanks entirely to BlackRock… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-10-19 13:00 UTC*
+*README auto-updated: 2026-10-20 13:00 UTC*
