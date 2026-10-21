@@ -13,15 +13,15 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 ## 📊 Activity (last 7 days)
 
-**Posts published: 50**
+**Posts published: 49**
 
 | Date | Headline |
 |------|----------|
-| 2026-10-20 | Strive buys $335M in Bitcoin, boosting holdings to 36,818 BTC… |
-| 2026-10-20 | Strategy buys $22M in Bitcoin, repurchases $193M in STRC… |
-| 2026-10-20 | Strive Buys $335 Million in Bitcoin After Investors Pour In $369 Million… |
-| 2026-10-20 | US Bitcoin ETFs draw $527M in biggest showing since September… |
-| 2026-10-20 | Bitcoin ETFs just saw their biggest day in a month thanks entirely to BlackRock… |
+| 2026-10-20 | Crypto’s 2026 shutdown wave claims 82 projects. What went wrong?… |
+| 2026-10-21 | Wallet Linked to Drift Exploit Sends $61 Million in Ethereum to Tornado Cash… |
+| 2026-10-21 | Mt. Gox Pushes Repayment Deadline to 2027 With $2.8B in Bitcoin Still to Distrib… |
+| 2026-10-21 | Crypto industry reels as April sees highest number of hacks ever… |
+| 2026-10-21 | Drift exploiter sends $109M in Ether to Tornado Cash in 2 days… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-10-20 13:00 UTC*
+*README auto-updated: 2026-10-21 13:00 UTC*
