@@ -13,15 +13,15 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 ## 📊 Activity (last 7 days)
 
-**Posts published: 49**
+**Posts published: 46**
 
 | Date | Headline |
 |------|----------|
-| 2026-10-20 | Crypto’s 2026 shutdown wave claims 82 projects. What went wrong?… |
-| 2026-10-21 | Wallet Linked to Drift Exploit Sends $61 Million in Ethereum to Tornado Cash… |
-| 2026-10-21 | Mt. Gox Pushes Repayment Deadline to 2027 With $2.8B in Bitcoin Still to Distrib… |
-| 2026-10-21 | Crypto industry reels as April sees highest number of hacks ever… |
-| 2026-10-21 | Drift exploiter sends $109M in Ether to Tornado Cash in 2 days… |
+| 2026-10-21 | Solana’s Alpenglow launches on mainnet, targets 99% faster finality… |
+| 2026-10-21 | Standard Chartered signs definitive deal to acquire Zodia Custody… |
+| 2026-10-21 | PancakeSwap TVL tops $380M as major fee overhaul heads to vote… |
+| 2026-10-22 | Bitcoin ETFs bag another $528M, taking 3-day haul past $1B… |
+| 2026-10-22 | Chinese Prosecutors Seek to Confiscate $5.1B in Bitcoin Seized by UK in Qian Cas… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-10-21 13:00 UTC*
+*README auto-updated: 2026-10-22 13:00 UTC*
