@@ -13,15 +13,15 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 ## 📊 Activity (last 7 days)
 
-**Posts published: 46**
+**Posts published: 45**
 
 | Date | Headline |
 |------|----------|
-| 2026-10-21 | Solana’s Alpenglow launches on mainnet, targets 99% faster finality… |
-| 2026-10-21 | Standard Chartered signs definitive deal to acquire Zodia Custody… |
-| 2026-10-21 | PancakeSwap TVL tops $380M as major fee overhaul heads to vote… |
-| 2026-10-22 | Bitcoin ETFs bag another $528M, taking 3-day haul past $1B… |
-| 2026-10-22 | Chinese Prosecutors Seek to Confiscate $5.1B in Bitcoin Seized by UK in Qian Cas… |
+| 2026-10-22 | a16z Drops Crypto From Its Name, Widens Bets to AI and Frontier Tech… |
+| 2026-10-23 | New DeepSeek ban in US, Swiss-Asia crypto ties deepen: Asia Express… |
+| 2026-10-23 | Switzerland approves first spot Bitcoin ETF for retail investors… |
+| 2026-10-23 | Bitcoin ETFs bleed $635M as October slides back into the red… |
+| 2026-10-23 | India's largest exchange denies hack after sleuths pointed to $16 million in sus… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-10-22 13:00 UTC*
+*README auto-updated: 2026-10-23 13:00 UTC*
