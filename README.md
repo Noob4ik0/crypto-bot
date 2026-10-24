@@ -13,15 +13,15 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 ## 📊 Activity (last 7 days)
 
-**Posts published: 45**
+**Posts published: 46**
 
 | Date | Headline |
 |------|----------|
-| 2026-10-22 | a16z Drops Crypto From Its Name, Widens Bets to AI and Frontier Tech… |
-| 2026-10-23 | New DeepSeek ban in US, Swiss-Asia crypto ties deepen: Asia Express… |
-| 2026-10-23 | Switzerland approves first spot Bitcoin ETF for retail investors… |
-| 2026-10-23 | Bitcoin ETFs bleed $635M as October slides back into the red… |
-| 2026-10-23 | India's largest exchange denies hack after sleuths pointed to $16 million in sus… |
+| 2026-10-23 | China targets 2030 for its national blockchain network buildout… |
+| 2026-10-23 | Crypto Scammers Who Used Prayer Groups to Lure Victims Must Pay $1.3 Billion, Sa… |
+| 2026-10-23 | Initia halts blockchain after exploit reportedly drains over $2.6M… |
+| 2026-10-23 | US senator probes Tether after reported deal with ex-Trump crypto adviser… |
+| 2026-10-24 | Senate Democrat Probes Tether Payments to Ex-White House Crypto Adviser’s Firm… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-10-23 13:00 UTC*
+*README auto-updated: 2026-10-24 13:00 UTC*
