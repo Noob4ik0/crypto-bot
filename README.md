@@ -13,15 +13,15 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 ## 📊 Activity (last 7 days)
 
-**Posts published: 41**
+**Posts published: 34**
 
 | Date | Headline |
 |------|----------|
-| 2026-10-23 | China targets 2030 for its national blockchain network buildout… |
-| 2026-10-23 | Crypto Scammers Who Used Prayer Groups to Lure Victims Must Pay $1.3 Billion, Sa… |
 | 2026-10-23 | Initia halts blockchain after exploit reportedly drains over $2.6M… |
 | 2026-10-23 | US senator probes Tether after reported deal with ex-Trump crypto adviser… |
 | 2026-10-24 | Senate Democrat Probes Tether Payments to Ex-White House Crypto Adviser’s Firm… |
+| 2026-10-25 | Drift to issue ‘recovery tokens’ in wake of $295m hack… |
+| 2026-10-26 | BTC price risks $80K loss into FOMC, earnings: Three things to know in Bitcoin t… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-10-25 13:00 UTC*
+*README auto-updated: 2026-10-26 13:00 UTC*
