@@ -13,15 +13,15 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 ## 📊 Activity (last 7 days)
 
-**Posts published: 34**
+**Posts published: 29**
 
 | Date | Headline |
 |------|----------|
-| 2026-10-23 | Initia halts blockchain after exploit reportedly drains over $2.6M… |
-| 2026-10-23 | US senator probes Tether after reported deal with ex-Trump crypto adviser… |
-| 2026-10-24 | Senate Democrat Probes Tether Payments to Ex-White House Crypto Adviser’s Firm… |
-| 2026-10-25 | Drift to issue ‘recovery tokens’ in wake of $295m hack… |
-| 2026-10-26 | BTC price risks $80K loss into FOMC, earnings: Three things to know in Bitcoin t… |
+| 2026-10-26 | Aviva Investors launches tokenized share class of $29B Sterling fund on XRP Ledg… |
+| 2026-10-26 | Bitcoin Wallet Fixes Critical Flaw That Redirected Funds to Attackers… |
+| 2026-10-26 | NBA names Kalshi, Polymarket preferred exchanges, signs CFTC deal… |
+| 2026-10-27 | Ripple wins final US approval for national trust bank… |
+| 2026-10-27 | Ripple gets a final go-ahead to launch its own U.S. national trust bank… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-10-26 13:00 UTC*
+*README auto-updated: 2026-10-27 13:00 UTC*
