@@ -13,15 +13,15 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 ## 📊 Activity (last 7 days)
 
-**Posts published: 29**
+**Posts published: 28**
 
 | Date | Headline |
 |------|----------|
-| 2026-10-26 | Aviva Investors launches tokenized share class of $29B Sterling fund on XRP Ledg… |
-| 2026-10-26 | Bitcoin Wallet Fixes Critical Flaw That Redirected Funds to Attackers… |
-| 2026-10-26 | NBA names Kalshi, Polymarket preferred exchanges, signs CFTC deal… |
-| 2026-10-27 | Ripple wins final US approval for national trust bank… |
-| 2026-10-27 | Ripple gets a final go-ahead to launch its own U.S. national trust bank… |
+| 2026-10-27 | VanEck launches diversified ETF combining stocks, bonds and Bitcoin exposure… |
+| 2026-10-28 | Ripple, Robinhood expand partnership to bring RLUSD to retail and institutional … |
+| 2026-10-28 | Bitcoin nears $81,000 ahead of Fed decision as ZEC jumps 8%… |
+| 2026-10-28 | Bithumb hacked through employee system as South Korean financial firms face cybe… |
+| 2026-10-28 | Bitcoin ETF inflows climb to $176M as BTC rebounds above $80K… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-10-27 13:00 UTC*
+*README auto-updated: 2026-10-28 13:00 UTC*
