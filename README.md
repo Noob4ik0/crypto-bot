@@ -13,15 +13,15 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 ## 📊 Activity (last 7 days)
 
-**Posts published: 28**
+**Posts published: 29**
 
 | Date | Headline |
 |------|----------|
-| 2026-10-27 | VanEck launches diversified ETF combining stocks, bonds and Bitcoin exposure… |
-| 2026-10-28 | Ripple, Robinhood expand partnership to bring RLUSD to retail and institutional … |
-| 2026-10-28 | Bitcoin nears $81,000 ahead of Fed decision as ZEC jumps 8%… |
-| 2026-10-28 | Bithumb hacked through employee system as South Korean financial firms face cybe… |
-| 2026-10-28 | Bitcoin ETF inflows climb to $176M as BTC rebounds above $80K… |
+| 2026-10-28 | Wall Street backbone DTCC brings $30 trillion securities closer to blockchain wi… |
+| 2026-10-28 | Fed leaves interest rates unchanged, as expected… |
+| 2026-10-28 | AI Security Startup Upwind Raises $400M at $3.8B Valuation… |
+| 2026-10-29 | Fed Stands Pat, Bitcoin Holds Steady—But a December Rate Hike Is in Play… |
+| 2026-10-29 | Bitcoin drops to $80,000 on Fed dissent, Samsung, Alphabet earnings; AI tokens s… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-10-28 13:00 UTC*
+*README auto-updated: 2026-10-29 13:00 UTC*
