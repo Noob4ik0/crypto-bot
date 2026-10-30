@@ -13,15 +13,15 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 ## 📊 Activity (last 7 days)
 
-**Posts published: 29**
+**Posts published: 30**
 
 | Date | Headline |
 |------|----------|
-| 2026-10-28 | Wall Street backbone DTCC brings $30 trillion securities closer to blockchain wi… |
-| 2026-10-28 | Fed leaves interest rates unchanged, as expected… |
-| 2026-10-28 | AI Security Startup Upwind Raises $400M at $3.8B Valuation… |
-| 2026-10-29 | Fed Stands Pat, Bitcoin Holds Steady—But a December Rate Hike Is in Play… |
-| 2026-10-29 | Bitcoin drops to $80,000 on Fed dissent, Samsung, Alphabet earnings; AI tokens s… |
+| 2026-10-30 | Binance hack drained wallets backing customer assets, reserve data shows… |
+| 2026-10-30 | Binance loses $5.7 billion in 'biggest crypto hack in history'… |
+| 2026-10-30 | Binance hacker splits $1.4 billion of bitcoin into 19 wallets that no one can fr… |
+| 2026-10-30 | Binance hack bites India's largest crypto exchange as it curbs futures trading… |
+| 2026-10-30 | Live updates: Binance finds more breaches in $6.3 billion hack; AI spending fear… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-10-29 13:00 UTC*
+*README auto-updated: 2026-10-30 13:00 UTC*
