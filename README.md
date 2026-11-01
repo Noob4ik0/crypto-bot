@@ -13,15 +13,15 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 ## 📊 Activity (last 7 days)
 
-**Posts published: 39**
+**Posts published: 47**
 
 | Date | Headline |
 |------|----------|
-| 2026-10-31 | Crypto liquidations jump to $1.57 billion as Binance hack sends bitcoin, ether l… |
-| 2026-10-31 | Binance hackers raced to move billions before it could be frozen… |
-| 2026-10-31 | Bitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’… |
-| 2026-10-31 | Coinbase leads crypto stock selloff following $6.3B Binance hack… |
-| 2026-10-31 | Binance $6.3B record hack sparks pre-election political chatter… |
+| 2026-11-01 | Binance $6.3B record hack sparks pre-election political clashes… |
+| 2026-11-01 | FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community … |
+| 2026-11-01 | Recap: How Binance’s record $6.3B hack unfolded… |
+| 2026-11-01 | As it happened: Binance’s record $6.3B crypto hack… |
+| 2026-11-01 | Binance says phase one of withdrawals opens after $6.3B hack… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-10-31 13:00 UTC*
+*README auto-updated: 2026-11-01 13:00 UTC*
