@@ -13,15 +13,15 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 ## 📊 Activity (last 7 days)
 
-**Posts published: 57**
+**Posts published: 59**
 
 | Date | Headline |
 |------|----------|
-| 2026-11-03 | North Korea denies role in $6.3B Binance hack, points finger at US… |
-| 2026-11-03 | South Korea urges exchanges to boost cold storage after Binance hack… |
-| 2026-11-03 | Crypto investigators flag suspected $106M theft, $786K Solana bot drain… |
-| 2026-11-03 | Arbitrum’s council moved $30 million of Binance hack funds without the hacker’s … |
-| 2026-11-03 | North Korea denies role in $6.4 billion Binance hack after FBI points to TraderT… |
+| 2026-11-04 | Binance net outflows reach $5.3 billion after record hack. CEO says recovery und… |
+| 2026-11-04 | ZachXBT identifies French bank as alleged victim of $133M crypto theft… |
+| 2026-11-04 | Jack Dorsey's Block faces $764 million DOJ settlement as bitcoin profit plunges … |
+| 2026-11-04 | Democrats surge toward Senate, House majorities, with crypto braced for new dire… |
+| 2026-11-04 | ZachXBT names French bank Crédit Mutuel Arkéa as suspected victim of $133 millio… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-11-03 13:00 UTC*
+*README auto-updated: 2026-11-04 13:00 UTC*
