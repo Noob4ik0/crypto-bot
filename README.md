@@ -13,15 +13,15 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 ## 📊 Activity (last 7 days)
 
-**Posts published: 59**
+**Posts published: 62**
 
 | Date | Headline |
 |------|----------|
-| 2026-11-04 | Binance net outflows reach $5.3 billion after record hack. CEO says recovery und… |
-| 2026-11-04 | ZachXBT identifies French bank as alleged victim of $133M crypto theft… |
-| 2026-11-04 | Jack Dorsey's Block faces $764 million DOJ settlement as bitcoin profit plunges … |
-| 2026-11-04 | Democrats surge toward Senate, House majorities, with crypto braced for new dire… |
-| 2026-11-04 | ZachXBT names French bank Crédit Mutuel Arkéa as suspected victim of $133 millio… |
+| 2026-11-05 | How Aussie Bitcoiners can avoid 2027’s shock CGT hike… |
+| 2026-11-05 | Trump Media moves $342 million in bitcoin to Crypto.com, blockchain data show… |
+| 2026-11-05 | Binance, Polymarket seek Polygon hard fork to recover $6.8M in stolen crypto… |
+| 2026-11-05 | Hong Kong passes law requiring crypto exchanges to report customer transactions … |
+| 2026-11-05 | Mercado Bitcoin hack continued hours after exchange said attack was contained, r… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-11-04 13:00 UTC*
+*README auto-updated: 2026-11-05 13:00 UTC*
