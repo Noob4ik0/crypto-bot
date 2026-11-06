@@ -13,15 +13,15 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 ## 📊 Activity (last 7 days)
 
-**Posts published: 62**
+**Posts published: 61**
 
 | Date | Headline |
 |------|----------|
-| 2026-11-05 | How Aussie Bitcoiners can avoid 2027’s shock CGT hike… |
-| 2026-11-05 | Trump Media moves $342 million in bitcoin to Crypto.com, blockchain data show… |
-| 2026-11-05 | Binance, Polymarket seek Polygon hard fork to recover $6.8M in stolen crypto… |
-| 2026-11-05 | Hong Kong passes law requiring crypto exchanges to report customer transactions … |
-| 2026-11-05 | Mercado Bitcoin hack continued hours after exchange said attack was contained, r… |
+| 2026-11-06 | Live updates: Bitcoin drops more than 5% as stocks close out worst day since Apr… |
+| 2026-11-06 | Fed, OCC check US banks after Binance hack as experts flag security risks… |
+| 2026-11-06 | Zcash’s landmark NU7 upgrade goes live, speeding up private payments… |
+| 2026-11-06 | Europe’s largest asset manager Amundi tokenizes equity index fund on Ethereum… |
+| 2026-11-06 | Greece approves 10% tax on crypto gains and 15% levy on DeFi income… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-11-05 13:00 UTC*
+*README auto-updated: 2026-11-06 13:00 UTC*
