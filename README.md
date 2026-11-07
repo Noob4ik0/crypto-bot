@@ -17,11 +17,11 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 | Date | Headline |
 |------|----------|
-| 2026-11-06 | Live updates: Bitcoin drops more than 5% as stocks close out worst day since Apr… |
-| 2026-11-06 | Fed, OCC check US banks after Binance hack as experts flag security risks… |
-| 2026-11-06 | Zcash’s landmark NU7 upgrade goes live, speeding up private payments… |
-| 2026-11-06 | Europe’s largest asset manager Amundi tokenizes equity index fund on Ethereum… |
-| 2026-11-06 | Greece approves 10% tax on crypto gains and 15% levy on DeFi income… |
+| 2026-11-07 | Binance hack is ‘cyber war,’ TRM Labs executive says… |
+| 2026-11-07 | Binance hackers had 8-week intrusion window before $6.3B exploit: SEAL… |
+| 2026-11-07 | Treasury Cuts Crypto Exchange MEXC Off From US Financial System… |
+| 2026-11-07 | US Sanctions 45 More Targets Tied to Alleged Crypto Scam Empire Prince Group… |
+| 2026-11-07 | $3.1B in Stolen Binance Crypto Has Yet to Be Laundered: Elliptic… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-11-06 13:00 UTC*
+*README auto-updated: 2026-11-07 13:00 UTC*
