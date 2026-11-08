@@ -13,15 +13,15 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 ## 📊 Activity (last 7 days)
 
-**Posts published: 61**
+**Posts published: 55**
 
 | Date | Headline |
 |------|----------|
-| 2026-11-07 | Binance hack is ‘cyber war,’ TRM Labs executive says… |
-| 2026-11-07 | Binance hackers had 8-week intrusion window before $6.3B exploit: SEAL… |
-| 2026-11-07 | Treasury Cuts Crypto Exchange MEXC Off From US Financial System… |
-| 2026-11-07 | US Sanctions 45 More Targets Tied to Alleged Crypto Scam Empire Prince Group… |
 | 2026-11-07 | $3.1B in Stolen Binance Crypto Has Yet to Be Laundered: Elliptic… |
+| 2026-11-07 | Bank of Russia clears 17 crypto exchangers as Sberbank and VTB ready retail trad… |
+| 2026-11-07 | Drift to issue ‘recovery tokens’ in wake of $295m hack… |
+| 2026-11-07 | U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged … |
+| 2026-11-07 | Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-11-07 13:00 UTC*
+*README auto-updated: 2026-11-08 13:00 UTC*
