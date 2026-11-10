@@ -17,11 +17,11 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 | Date | Headline |
 |------|----------|
-| 2026-11-07 | Drift to issue ‘recovery tokens’ in wake of $295m hack… |
-| 2026-11-07 | U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged … |
-| 2026-11-07 | Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets… |
-| 2026-11-09 | Solana moves to scrap the transaction feature used in the $270 million Drift hac… |
-| 2026-11-09 | Binance, Tether and Trump crypto firms face Senate records deadline… |
+| 2026-11-10 | Avalanche’s AVAX leads crypto gains following NYSE tokenization deal… |
+| 2026-11-10 | Analysts see no broader ‘contagion’ from $6.3B Binance hack… |
+| 2026-11-10 | Bitcoin miner MARA sold 13,597 BTC for $1.1 billion in six weeks, plans to sell … |
+| 2026-11-10 | The $2.85B Binance hackers lost shows why the UK needs stablecoin freeze rules… |
+| 2026-11-10 | Live news: Traders price in fed rate hike for December as bitcoin and gold retre… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-11-09 13:00 UTC*
+*README auto-updated: 2026-11-10 13:00 UTC*
