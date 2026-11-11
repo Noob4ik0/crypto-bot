@@ -17,11 +17,11 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 | Date | Headline |
 |------|----------|
-| 2026-11-10 | Avalanche’s AVAX leads crypto gains following NYSE tokenization deal… |
-| 2026-11-10 | Analysts see no broader ‘contagion’ from $6.3B Binance hack… |
-| 2026-11-10 | Bitcoin miner MARA sold 13,597 BTC for $1.1 billion in six weeks, plans to sell … |
-| 2026-11-10 | The $2.85B Binance hackers lost shows why the UK needs stablecoin freeze rules… |
-| 2026-11-10 | Live news: Traders price in fed rate hike for December as bitcoin and gold retre… |
+| 2026-11-11 | Hot US inflation raises odds of half-point Fed hike in December… |
+| 2026-11-11 | LNbits rushes emergency patch after reported Bitcoin wallet thefts… |
+| 2026-11-11 | CFTC warns Kalshi of imminent charges over notification of contracts: Politico… |
+| 2026-11-11 | Initia confirms second exploit in 3 weeks, $3.27M stolen in latest attack… |
+| 2026-11-11 | Stock ETF buyers pounce on dip as Bitcoin funds bleed $1.6 billion… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-11-10 13:00 UTC*
+*README auto-updated: 2026-11-11 13:00 UTC*
