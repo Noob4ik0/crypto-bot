@@ -13,15 +13,15 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 ## 📊 Activity (last 7 days)
 
-**Posts published: 48**
+**Posts published: 49**
 
 | Date | Headline |
 |------|----------|
-| 2026-11-11 | Hot US inflation raises odds of half-point Fed hike in December… |
-| 2026-11-11 | LNbits rushes emergency patch after reported Bitcoin wallet thefts… |
-| 2026-11-11 | CFTC warns Kalshi of imminent charges over notification of contracts: Politico… |
-| 2026-11-11 | Initia confirms second exploit in 3 weeks, $3.27M stolen in latest attack… |
-| 2026-11-11 | Stock ETF buyers pounce on dip as Bitcoin funds bleed $1.6 billion… |
+| 2026-11-12 | OKX-ICE Tokenized Stock Venue Sets Launch, Turning to Crypto Companies After Big… |
+| 2026-11-12 | Avalanche Won Over the NYSE. Now It Has to ‘Capture Value’ for AVAX… |
+| 2026-11-12 | Binance CSO unwittingly foreshadowed $6.3B hack tactic months before attack… |
+| 2026-11-12 | MSCI is dropping Strategy from its index, and the exclusion could hit its bitcoi… |
+| 2026-11-12 | India’s financial crimes watchdog raids crypto exchanges CoinDCX and Delta over … |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-11-11 13:00 UTC*
+*README auto-updated: 2026-11-12 13:00 UTC*
