@@ -17,11 +17,11 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 | Date | Headline |
 |------|----------|
-| 2026-11-12 | OKX-ICE Tokenized Stock Venue Sets Launch, Turning to Crypto Companies After Big… |
-| 2026-11-12 | Avalanche Won Over the NYSE. Now It Has to ‘Capture Value’ for AVAX… |
-| 2026-11-12 | Binance CSO unwittingly foreshadowed $6.3B hack tactic months before attack… |
-| 2026-11-12 | MSCI is dropping Strategy from its index, and the exclusion could hit its bitcoi… |
-| 2026-11-12 | India’s financial crimes watchdog raids crypto exchanges CoinDCX and Delta over … |
+| 2026-11-13 | North Korea's Binance hack faces U.S. crackdown as DOJ targets $1.2 billion in s… |
+| 2026-11-13 | Trump nominates Hester Peirce successor among SEC, CFTC picks… |
+| 2026-11-13 | Bitcoin ETFs are now down over $1.5 billion in net outflows for the year… |
+| 2026-11-13 | Bitcoin firm Nakamoto owes Kraken $165 million, more than its entire market valu… |
+| 2026-11-13 | DOJ moves to seize $1.2B from Binance hack, disrupts FaceStealer scam… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-11-12 13:00 UTC*
+*README auto-updated: 2026-11-13 13:00 UTC*
