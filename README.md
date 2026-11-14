@@ -13,15 +13,15 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 ## 📊 Activity (last 7 days)
 
-**Posts published: 49**
+**Posts published: 48**
 
 | Date | Headline |
 |------|----------|
-| 2026-11-13 | North Korea's Binance hack faces U.S. crackdown as DOJ targets $1.2 billion in s… |
-| 2026-11-13 | Trump nominates Hester Peirce successor among SEC, CFTC picks… |
-| 2026-11-13 | Bitcoin ETFs are now down over $1.5 billion in net outflows for the year… |
-| 2026-11-13 | Bitcoin firm Nakamoto owes Kraken $165 million, more than its entire market valu… |
-| 2026-11-13 | DOJ moves to seize $1.2B from Binance hack, disrupts FaceStealer scam… |
+| 2026-11-13 | JPMorgan’s Bitcoin and Crypto-Linked Holdings Approach $1 Billion… |
+| 2026-11-14 | Adam Back makes case for simpler security as Blockstream launches Bitcoin custod… |
+| 2026-11-14 | Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out… |
+| 2026-11-14 | Bitcoin Hits 12-Week Low as Fed Rate Fears Undo Most of Summer Rally… |
+| 2026-11-14 | Bitcoin ETFs shed $2.35B in 2 weeks, BlackRock’s losing streak hits 11… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-11-13 13:00 UTC*
+*README auto-updated: 2026-11-14 13:00 UTC*
