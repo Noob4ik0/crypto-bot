@@ -13,15 +13,15 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 ## 📊 Activity (last 7 days)
 
-**Posts published: 51**
+**Posts published: 46**
 
 | Date | Headline |
 |------|----------|
-| 2026-11-14 | Bitcoin Hits 12-Week Low as Fed Rate Fears Undo Most of Summer Rally… |
-| 2026-11-14 | Bitcoin ETFs shed $2.35B in 2 weeks, BlackRock’s losing streak hits 11… |
 | 2026-11-14 | Bank of Russia clears 17 crypto exchangers as Sberbank and VTB ready retail trad… |
 | 2026-11-14 | Drift to issue ‘recovery tokens’ in wake of $295m hack… |
 | 2026-11-15 | RWA protocol stUSDT winds down three years after $2.3B TVL peak… |
+| 2026-11-16 | Bitcoin miners were hijacked and their BTC rewards redirected to an attacker… |
+| 2026-11-16 | FOMC minutes, Nvidia earnings, Russia’s retail crypto rules: Crypto Week Ahead… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-11-15 13:00 UTC*
+*README auto-updated: 2026-11-16 13:00 UTC*
