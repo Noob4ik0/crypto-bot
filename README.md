@@ -13,15 +13,15 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 ## 📊 Activity (last 7 days)
 
-**Posts published: 46**
+**Posts published: 47**
 
 | Date | Headline |
 |------|----------|
-| 2026-11-14 | Bank of Russia clears 17 crypto exchangers as Sberbank and VTB ready retail trad… |
-| 2026-11-14 | Drift to issue ‘recovery tokens’ in wake of $295m hack… |
-| 2026-11-15 | RWA protocol stUSDT winds down three years after $2.3B TVL peak… |
-| 2026-11-16 | Bitcoin miners were hijacked and their BTC rewards redirected to an attacker… |
-| 2026-11-16 | FOMC minutes, Nvidia earnings, Russia’s retail crypto rules: Crypto Week Ahead… |
+| 2026-11-17 | Hackers inject credit card, crypto-stealing malware into 178 major websites… |
+| 2026-11-17 | Trezor customer data exposed in 3rd partner breach this year… |
+| 2026-11-17 | Wells Fargo's reported BlackRock bitcoin ETF holdings double to $2.35 billion… |
+| 2026-11-17 | Goldman Sachs reports $1.22B in Ether ETFs as ETHA share count jumps… |
+| 2026-11-17 | Solana Foundation takes majority stake in crypto data provider CoinGecko… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-11-16 13:00 UTC*
+*README auto-updated: 2026-11-17 13:00 UTC*
