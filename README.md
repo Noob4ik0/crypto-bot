@@ -13,15 +13,15 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 ## 📊 Activity (last 7 days)
 
-**Posts published: 47**
+**Posts published: 46**
 
 | Date | Headline |
 |------|----------|
-| 2026-11-17 | Hackers inject credit card, crypto-stealing malware into 178 major websites… |
-| 2026-11-17 | Trezor customer data exposed in 3rd partner breach this year… |
-| 2026-11-17 | Wells Fargo's reported BlackRock bitcoin ETF holdings double to $2.35 billion… |
-| 2026-11-17 | Goldman Sachs reports $1.22B in Ether ETFs as ETHA share count jumps… |
-| 2026-11-17 | Solana Foundation takes majority stake in crypto data provider CoinGecko… |
+| 2026-11-18 | CFTC halts some Kalshi Trump mention markets over manipulation concerns… |
+| 2026-11-18 | Fed’s Waller cites Binance hack in warning over tokenized finance… |
+| 2026-11-18 | Solana Foundation takes majority interest in crypto data firm CoinGecko… |
+| 2026-11-18 | U.S. judge says Ethereum has ‘no terms of use,’ clears MIT brothers of $25 milli… |
+| 2026-11-18 | SOL comes out of Breakpoint 7% higher as Solana exits beta… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-11-17 13:00 UTC*
+*README auto-updated: 2026-11-18 13:00 UTC*
