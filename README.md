@@ -13,15 +13,15 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 ## 📊 Activity (last 7 days)
 
-**Posts published: 46**
+**Posts published: 47**
 
 | Date | Headline |
 |------|----------|
-| 2026-11-18 | CFTC halts some Kalshi Trump mention markets over manipulation concerns… |
-| 2026-11-18 | Fed’s Waller cites Binance hack in warning over tokenized finance… |
-| 2026-11-18 | Solana Foundation takes majority interest in crypto data firm CoinGecko… |
-| 2026-11-18 | U.S. judge says Ethereum has ‘no terms of use,’ clears MIT brothers of $25 milli… |
-| 2026-11-18 | SOL comes out of Breakpoint 7% higher as Solana exits beta… |
+| 2026-11-19 | Fed officials saw October rate hold as a ‘close call,’ minutes show… |
+| 2026-11-19 | CZ says tokenized Anthropic is coming to BNB Chain on IPO day… |
+| 2026-11-19 | Bitcoin miner that sold its last BTC warns it may run short of cash for $1.2 bil… |
+| 2026-11-19 | Singapore settles $77.5M tokenized bill sale with wholesale CBDC… |
+| 2026-11-19 | North Korean hackers used Sky's stablecoin system, putting billions at freeze ri… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-11-18 13:00 UTC*
+*README auto-updated: 2026-11-19 13:00 UTC*
