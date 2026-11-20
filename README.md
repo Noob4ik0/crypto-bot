@@ -17,11 +17,11 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 | Date | Headline |
 |------|----------|
-| 2026-11-19 | Fed officials saw October rate hold as a ‘close call,’ minutes show… |
-| 2026-11-19 | CZ says tokenized Anthropic is coming to BNB Chain on IPO day… |
-| 2026-11-19 | Bitcoin miner that sold its last BTC warns it may run short of cash for $1.2 bil… |
-| 2026-11-19 | Singapore settles $77.5M tokenized bill sale with wholesale CBDC… |
-| 2026-11-19 | North Korean hackers used Sky's stablecoin system, putting billions at freeze ri… |
+| 2026-11-20 | Hackers Leak Visa, Mastercard and JPMorgan Customer Data… |
+| 2026-11-20 | Institutions pile back into US Bitcoin ETFs in Q3 after selling streak… |
+| 2026-11-20 | Here's what's crashing gold and likely weighing on bitcoin too… |
+| 2026-11-20 | Big money bought a net $4 billion of bitcoin funds in Q3, ending 9 months of sel… |
+| 2026-11-20 | Ethereum’s next big upgrade is pushed into 2027 by apps it would break… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-11-19 13:00 UTC*
+*README auto-updated: 2026-11-20 13:00 UTC*
