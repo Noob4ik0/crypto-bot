@@ -13,15 +13,15 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 ## 📊 Activity (last 7 days)
 
-**Posts published: 47**
+**Posts published: 50**
 
 | Date | Headline |
 |------|----------|
-| 2026-11-20 | Hackers Leak Visa, Mastercard and JPMorgan Customer Data… |
-| 2026-11-20 | Institutions pile back into US Bitcoin ETFs in Q3 after selling streak… |
-| 2026-11-20 | Here's what's crashing gold and likely weighing on bitcoin too… |
-| 2026-11-20 | Big money bought a net $4 billion of bitcoin funds in Q3, ending 9 months of sel… |
-| 2026-11-20 | Ethereum’s next big upgrade is pushed into 2027 by apps it would break… |
+| 2026-11-21 | SEC charges 8 firms over fake crypto platforms tied to $37M fraud… |
+| 2026-11-21 | Cathie Wood Bets $91M on Anthropic IPO While Paring Crypto Exposure… |
+| 2026-11-21 | Wrapped Monero Token Collapses 99% After $13 Million Hack Blamed on Web Host… |
+| 2026-11-21 | Hong Kong pushes to bring crypto custodians, advisers under licensing rules… |
+| 2026-11-21 | Bitcoin ETFs Shed $582M in a Day as BTC Drops Below $62K… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-11-20 13:00 UTC*
+*README auto-updated: 2026-11-21 13:00 UTC*
