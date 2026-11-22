@@ -13,15 +13,15 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 ## 📊 Activity (last 7 days)
 
-**Posts published: 50**
+**Posts published: 55**
 
 | Date | Headline |
 |------|----------|
-| 2026-11-21 | SEC charges 8 firms over fake crypto platforms tied to $37M fraud… |
-| 2026-11-21 | Cathie Wood Bets $91M on Anthropic IPO While Paring Crypto Exposure… |
-| 2026-11-21 | Wrapped Monero Token Collapses 99% After $13 Million Hack Blamed on Web Host… |
-| 2026-11-21 | Hong Kong pushes to bring crypto custodians, advisers under licensing rules… |
-| 2026-11-21 | Bitcoin ETFs Shed $582M in a Day as BTC Drops Below $62K… |
+| 2026-11-21 | Bank of Russia clears 17 crypto exchangers as Sberbank and VTB ready retail trad… |
+| 2026-11-21 | Drift to issue ‘recovery tokens’ in wake of $295m hack… |
+| 2026-11-22 | Chainflip confirms $12M hack, offers attacker 10% bounty… |
+| 2026-11-22 | South Korean exchanges halt CYBER transfers amid suspected bridge exploit… |
+| 2026-11-22 | Strategy shares soar 50% in a month as Bitcoin tops $80,000 ahead of Q1 earnings… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-11-21 13:00 UTC*
+*README auto-updated: 2026-11-22 13:00 UTC*
