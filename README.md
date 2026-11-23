@@ -13,15 +13,15 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 ## 📊 Activity (last 7 days)
 
-**Posts published: 55**
+**Posts published: 54**
 
 | Date | Headline |
 |------|----------|
-| 2026-11-21 | Bank of Russia clears 17 crypto exchangers as Sberbank and VTB ready retail trad… |
-| 2026-11-21 | Drift to issue ‘recovery tokens’ in wake of $295m hack… |
-| 2026-11-22 | Chainflip confirms $12M hack, offers attacker 10% bounty… |
-| 2026-11-22 | South Korean exchanges halt CYBER transfers amid suspected bridge exploit… |
-| 2026-11-22 | Strategy shares soar 50% in a month as Bitcoin tops $80,000 ahead of Q1 earnings… |
+| 2026-11-22 | Bitcoin's quantum security challenge extends to bridges, custodians and millions… |
+| 2026-11-23 | Billionaire Bill Ackman warns Fed will make a rate ‘mistake’ in December… |
+| 2026-11-23 | Market rout kills 50 basis points December Fed rate hike bets… |
+| 2026-11-23 | ‘MoldyRoost’ ads can steal crypto wallet recovery phrases from iPhones… |
+| 2026-11-23 | South Korea to expand cryptocurrency account freezes and curb illicit transfers … |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-11-22 13:00 UTC*
+*README auto-updated: 2026-11-23 13:00 UTC*
