@@ -17,11 +17,11 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 | Date | Headline |
 |------|----------|
-| 2026-11-24 | Ethereum wallets holding $72 billion ETH are under threat of a future quantum at… |
-| 2026-11-24 | US seeks to recover $1.1B in crypto stolen in North Korea-linked Binance hack… |
-| 2026-11-24 | Bitcoin rebounds 17% from $55K lows as Nvidia rally sparks $500M crypto liquidat… |
-| 2026-11-24 | North Korea Moves $247 Million of Binance Hack Loot Through Bitcoin Mixers… |
-| 2026-11-24 | Bitcoin Rallies, Anthropic Sinks as Nvidia Surges 35% on Jensen Huang’s Return… |
+| 2026-11-24 | BlackRock launches tokenized money market fund accepting stablecoins in Hong Kon… |
+| 2026-11-25 | South Korea proposes bank-led stablecoins, 20% cap on crypto exchange stakes… |
+| 2026-11-25 | Ansem Meme Coin Crashes After $2.57 Million Wallet Drain, Bullpen Confirms Secur… |
+| 2026-11-25 | South Korea’s crypto bill could move stablecoin race beyond token issuance… |
+| 2026-11-25 | Justice Department Moves to Forfeit $1.1B in USDC From North Korea's Binance Hac… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-11-24 13:00 UTC*
+*README auto-updated: 2026-11-25 13:00 UTC*
