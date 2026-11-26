@@ -17,11 +17,11 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 | Date | Headline |
 |------|----------|
-| 2026-11-24 | BlackRock launches tokenized money market fund accepting stablecoins in Hong Kon… |
-| 2026-11-25 | South Korea proposes bank-led stablecoins, 20% cap on crypto exchange stakes… |
-| 2026-11-25 | Ansem Meme Coin Crashes After $2.57 Million Wallet Drain, Bullpen Confirms Secur… |
-| 2026-11-25 | South Korea’s crypto bill could move stablecoin race beyond token issuance… |
-| 2026-11-25 | Justice Department Moves to Forfeit $1.1B in USDC From North Korea's Binance Hac… |
+| 2026-11-26 | Nvidia agrees to $290M settlement over crypto mining revenue disclosures… |
+| 2026-11-26 | Bitcoin ETFs near $5B in record monthly outflows amid AI stock rout… |
+| 2026-11-26 | Bill to lock up U.S. government bitcoin for 20 years advances to full House… |
+| 2026-11-26 | $7 billion of bitcoin options expire Friday, and the biggest bets look starkly d… |
+| 2026-11-26 | Bitcoin ETF November outflows top $5B, Morgan Stanley bucks trend… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-11-25 13:00 UTC*
+*README auto-updated: 2026-11-26 13:00 UTC*
