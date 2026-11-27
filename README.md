@@ -17,11 +17,11 @@ AI scores each headline 1–10. Only scores ≥ 7 get published.
 
 | Date | Headline |
 |------|----------|
-| 2026-11-26 | Nvidia agrees to $290M settlement over crypto mining revenue disclosures… |
-| 2026-11-26 | Bitcoin ETFs near $5B in record monthly outflows amid AI stock rout… |
-| 2026-11-26 | Bill to lock up U.S. government bitcoin for 20 years advances to full House… |
-| 2026-11-26 | $7 billion of bitcoin options expire Friday, and the biggest bets look starkly d… |
-| 2026-11-26 | Bitcoin ETF November outflows top $5B, Morgan Stanley bucks trend… |
+| 2026-11-27 | ‘Very racist’ Netflix SBF series, BitMart’s $319M shortfall: Asia Express… |
+| 2026-11-27 | BNB Chain details new layer-1 for trading, private finance and AI… |
+| 2026-11-27 | Binance completes withdrawal recovery four weeks after $6.3B hack… |
+| 2026-11-27 | Crypto on notice as hawkish Fed risks December ‘meltdown’… |
+| 2026-11-27 | ESMA to overhaul EU’s MiCA crypto register in 2027… |
 
 ## Setup
 
@@ -39,4 +39,4 @@ See `.env.example` for required keys:
 - `OPENROUTER_API_KEY` — OpenRouter API key (free tier works)
 
 ---
-*README auto-updated: 2026-11-26 13:00 UTC*
+*README auto-updated: 2026-11-27 13:00 UTC*
